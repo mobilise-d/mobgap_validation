@@ -1,0 +1,1302 @@
+cv_fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,gs_id,start,end
+0,CHF,2079,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,749,2099
+0,CHF,2079,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,599,1349
+0,CHF,2079,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1199
+0,CHF,2079,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,899,1799
+0,CHF,2079,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1649
+0,CHF,2079,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1199
+0,CHF,2079,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1049
+0,CHF,2079,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2999
+0,CHF,2079,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,3749
+0,CHF,2079,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,749,2999
+0,CHF,2079,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,1649
+0,CHF,2079,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,14399,15749
+0,CHF,2079,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,16199,17099
+0,CHF,2079,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,21599,22199
+0,CHF,4080,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1499
+0,CHF,4080,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,CHF,4080,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,CHF,4080,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,149,749
+0,CHF,4080,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1172
+0,CHF,4080,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1199
+0,CHF,4080,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,CHF,4080,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2399
+0,CHF,4080,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,3149
+0,CHF,4080,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1949
+0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1499,2249
+0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3749,4499
+0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4649,5849
+0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10949,11549
+0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12149,12899
+0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,14549,15599
+0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,17699,18899
+0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1049,2549
+0,CHF,4082,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,CHF,4082,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1049,1799
+0,CHF,4082,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,449,1049
+0,CHF,4082,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1049
+0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,3599
+0,CHF,4083,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1799
+0,CHF,4083,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,CHF,4083,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,CHF,4083,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1043
+0,CHF,4083,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1041
+0,CHF,4083,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,2099
+0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,3449
+0,CHF,4083,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,2096
+0,CHF,4083,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,899,1649
+0,CHF,4083,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1799,2399
+0,CHF,4083,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6299,7499
+0,CHF,4083,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,12149,13649
+0,CHF,4083,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15749,16499
+0,CHF,5085,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,CHF,5085,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,CHF,5085,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1199
+0,CHF,5085,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1349
+0,CHF,5085,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,CHF,5085,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1649
+0,CHF,5085,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2549
+0,CHF,5085,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1799
+0,CHF,5085,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,1649
+0,CHF,5085,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2099,4049
+0,CHF,5085,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7949,10349
+0,CHF,5085,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11549,12149
+0,CHF,5086,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,CHF,5086,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,CHF,5086,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,CHF,5086,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1349
+0,CHF,5086,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,CHF,5086,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1799
+0,CHF,5086,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2249
+0,CHF,5086,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1473
+0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,899,2549
+0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2999,3599
+0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7349,8999
+0,CHF,5087,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,CHF,5087,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1049
+0,CHF,5087,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,899
+0,CHF,5087,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1349
+0,CHF,5087,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2699
+0,CHF,5087,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1799
+0,CHF,5087,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,899
+0,CHF,5087,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1049,1799
+0,CHF,5087,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2099,2849
+0,CHF,5087,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2999,3899
+0,CHF,5087,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,7349,9599
+0,CHF,5087,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,14099,14699
+0,CHF,5088,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1049
+0,CHF,5088,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,CHF,5088,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1199
+0,CHF,5088,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,CHF,5088,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,CHF,5088,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,CHF,5088,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1602
+0,CHF,5088,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2099
+0,CHF,5088,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,2249
+0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3299,4649
+0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8099,8833
+0,CHF,5089,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1199
+0,CHF,5089,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,CHF,5089,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,CHF,5089,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1049
+0,CHF,5089,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,CHF,5089,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,748
+0,CHF,5089,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,854
+0,CHF,5089,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1948
+0,CHF,5089,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2697
+0,CHF,5089,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1799
+0,CHF,5089,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1199
+0,CHF,5089,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1499,2999
+0,CHF,5089,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4349,6149
+0,CHF,5089,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8399,8999
+0,CHF,5090,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1199
+0,CHF,5090,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,CHF,5090,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1499
+0,CHF,5090,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2249
+0,CHF,5090,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1049
+0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1199,2099
+0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2249,3299
+0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6599,7499
+0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,7799,8549
+0,COPD,1042,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,749,1499
+0,COPD,1042,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1049
+0,COPD,1042,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1349
+0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2099
+0,COPD,1042,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1799
+0,COPD,1042,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2699
+0,COPD,1042,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,2849
+0,COPD,1042,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1949
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2249,2999
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3899,4649
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,12449,13349
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,14099,14999
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15299,16049
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,17249,18299
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,23699,24299
+0,COPD,1043,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1199
+0,COPD,1043,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1199
+0,COPD,1043,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,COPD,1043,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,899
+0,COPD,1043,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2099
+0,COPD,1043,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1799
+0,COPD,1043,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2849
+0,COPD,1043,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2849
+0,COPD,1043,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1949
+0,COPD,1043,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1799
+0,COPD,1043,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2399,3149
+0,COPD,1043,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4649,5249
+0,COPD,1043,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11549,12899
+0,COPD,1043,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15749,16499
+0,COPD,1043,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,26099,26699
+0,COPD,1044,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,899
+0,COPD,1044,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,899
+0,COPD,1044,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,899
+0,COPD,1044,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1949
+0,COPD,1044,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2849
+0,COPD,1044,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,2099
+0,COPD,1044,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1649
+0,COPD,1044,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1949,2549
+0,COPD,1044,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3899,4499
+0,COPD,1044,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10199,10949
+0,COPD,1044,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13349,14249
+0,COPD,1044,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,16349,17099
+0,COPD,1044,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,31049,31649
+0,COPD,1045,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1199
+0,COPD,1045,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,899
+0,COPD,1045,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,899
+0,COPD,1045,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1949
+0,COPD,1045,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1949
+0,COPD,1045,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,2999
+0,COPD,1045,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,2849
+0,COPD,1045,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1799
+0,COPD,1045,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1799
+0,COPD,1045,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3599,4199
+0,COPD,1045,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11999,12899
+0,COPD,1045,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13949,14699
+0,COPD,1045,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,16649,17399
+0,COPD,1046,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,COPD,1046,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1199
+0,COPD,1046,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1199
+0,COPD,1046,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,1799
+0,COPD,1046,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1949
+0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2849
+0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2699
+0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1949
+0,COPD,1046,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1349,1949
+0,COPD,1046,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2699,3449
+0,COPD,1046,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,13349,14099
+0,COPD,1046,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,15299,16049
+0,COPD,1046,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,18299,19049
+0,COPD,1047,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,899,1649
+0,COPD,1047,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1199
+0,COPD,1047,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1199
+0,COPD,1047,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,2099
+0,COPD,1047,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,2999
+0,COPD,1047,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,2099
+0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1349,1949
+0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,12599,13349
+0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,15299,16049
+0,COPD,1048,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,899,1949
+0,COPD,1048,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,COPD,1048,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,COPD,1048,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,749,1349
+0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2549
+0,COPD,1048,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,2549
+0,COPD,1048,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,3899
+0,COPD,1048,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,3899
+0,COPD,1048,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2549
+0,COPD,1048,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1799
+0,COPD,1048,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2099,2999
+0,COPD,1048,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4349,5399
+0,COPD,1048,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,14399,15449
+0,COPD,1048,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,16799,17849
+0,COPD,1049,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1649
+0,COPD,1049,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,COPD,1049,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1199
+0,COPD,1049,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,599,1199
+0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1949
+0,COPD,1049,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1949
+0,COPD,1049,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2849
+0,COPD,1049,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2849
+0,COPD,1049,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1949
+0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1799
+0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,10799,11549
+0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,14549,15449
+0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,17249,17999
+0,COPD,1050,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1049
+0,COPD,1050,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,COPD,1050,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1199
+0,COPD,1050,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1199
+0,COPD,1050,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,449,1049
+0,COPD,1050,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2249
+0,COPD,1050,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,2249
+0,COPD,1050,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,3149
+0,COPD,1050,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,599,3299
+0,COPD,1050,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2249
+0,COPD,1050,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,1199
+0,COPD,1050,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1649,2399
+0,COPD,1050,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8999,9899
+0,COPD,1050,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10349,10949
+0,COPD,1050,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,11849,12749
+0,COPD,1050,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,14099,14849
+0,COPD,1051,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,COPD,1051,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,COPD,1051,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,1949
+0,COPD,1051,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,1799
+0,COPD,1051,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2699
+0,COPD,1051,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2699
+0,COPD,1051,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1799
+0,COPD,1051,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1199,1799
+0,COPD,1051,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2399,2999
+0,COPD,1051,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3599,4349
+0,COPD,1051,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13349,14099
+0,COPD,1051,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15449,16049
+0,COPD,1052,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1499
+0,COPD,1052,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1049
+0,COPD,1052,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1049
+0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2249
+0,COPD,1052,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,2249
+0,COPD,1052,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,3149
+0,COPD,1052,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,3449
+0,COPD,1052,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,2249
+0,COPD,1052,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1199,1949
+0,COPD,1052,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2549,3149
+0,COPD,1052,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4199,4799
+0,COPD,1052,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,17549,18299
+0,COPD,1052,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,20549,21299
+0,COPD,1052,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,26099,26849
+0,COPD,1053,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1199
+0,COPD,1053,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1049
+0,COPD,1053,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2549
+0,COPD,1053,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,2249
+0,COPD,1053,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,3149
+0,COPD,1053,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,599,2849
+0,COPD,1053,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2249
+0,COPD,1053,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1949,2549
+0,COPD,1053,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,13799,14399
+0,COPD,1053,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,18449,19349
+0,COPD,1053,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,22199,22949
+0,COPD,1054,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,899
+0,COPD,1054,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,COPD,1054,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,1649
+0,COPD,1054,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,2099
+0,COPD,1054,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2699
+0,COPD,1054,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2699
+0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1799
+0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1649
+0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1799,2549
+0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4199,4799
+0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,16199,16949
+0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,19499,20249
+0,COPD,1055,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1199
+0,COPD,1055,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1049
+0,COPD,1055,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1949
+0,COPD,1055,TimeMeasure1,Test8,Trial2,L,L-Test,0,749,2399
+0,COPD,1055,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,3449
+0,COPD,1055,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,3599
+0,COPD,1055,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2249
+0,COPD,1055,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,1199
+0,COPD,1055,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1649,2549
+0,COPD,1055,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4049,5249
+0,COPD,1055,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,19049,19799
+0,COPD,1055,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,20999,21899
+0,COPD,1055,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,23849,24599
+0,COPD,2056,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1199
+0,COPD,2056,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,COPD,2056,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,COPD,2056,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,149,1199
+0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1049,1943
+0,COPD,2056,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1499
+0,COPD,2056,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2399
+0,COPD,2056,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1455
+0,COPD,2056,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1199
+0,COPD,2056,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,6749,7349
+0,COPD,2056,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8249,10349
+0,COPD,2057,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,COPD,2057,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,1799,2521
+0,COPD,2057,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,COPD,2057,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1349
+0,COPD,2057,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,899
+0,COPD,2057,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,449,1049
+0,COPD,2057,TimeMeasure1,Test8,Trial1,L,L-Test,0,1649,3149
+0,COPD,2057,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1949
+0,COPD,2057,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2667
+0,COPD,2057,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2249
+0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2999,3749
+0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,11249,12749
+0,COPD,2058,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,COPD,2058,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,COPD,2058,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,COPD,2058,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1199
+0,COPD,2058,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,COPD,2058,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1049
+0,COPD,2058,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,COPD,2058,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,2099
+0,COPD,2058,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1799
+0,COPD,2058,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2520
+0,COPD,2058,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2399
+0,COPD,2058,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,2099
+0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,749,1499
+0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2999,4049
+0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7049,7649
+0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9299,10799
+0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,18899,19499
+0,HA,1091,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,899
+0,HA,1091,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,899
+0,HA,1091,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1649
+0,HA,1091,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2249
+0,HA,1091,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,1799
+0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1649
+0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2549,3299
+0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3899,4649
+0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13649,14399
+0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,16199,16799
+0,HA,1092,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1199
+0,HA,1092,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,HA,1092,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,899
+0,HA,1092,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,HA,1092,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1949
+0,HA,1092,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1949
+0,HA,1092,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2849
+0,HA,1092,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,2549
+0,HA,1092,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1949,2849
+0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3599,4349
+0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,10199,10949
+0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11099,11999
+0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13049,14399
+0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,15449,16199
+0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,26249,26849
+0,HA,1093,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1349
+0,HA,1093,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1199
+0,HA,1093,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1799
+0,HA,1093,TimeMeasure1,Test8,Trial2,L,L-Test,0,749,2099
+0,HA,1093,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2699
+0,HA,1093,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,749,2999
+0,HA,1093,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1649
+0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2099,2699
+0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9749,10349
+0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10799,11399
+0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12299,13049
+0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,14099,14849
+0,HA,1094,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,HA,1094,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,HA,1094,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,HA,1094,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1349
+0,HA,1094,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1199
+0,HA,1094,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2399
+0,HA,1094,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,2549
+0,HA,1094,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,3149
+0,HA,1094,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2399
+0,HA,1094,TimeMeasure1,Test10,Trial2,Halway,Hallway Test,0,449,2549
+0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1199,1949
+0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4349,5249
+0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11399,11999
+0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13349,14099
+0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15449,16349
+0,HA,1095,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1349
+0,HA,1095,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,749,1499
+0,HA,1095,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,899,1499
+0,HA,1095,TimeMeasure1,Test8,Trial1,L,L-Test,0,899,2249
+0,HA,1095,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,3299
+0,HA,1095,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,2249
+0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1499,2249
+0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2999,3749
+0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,13349,14099
+0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,15899,16649
+0,HA,1096,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1049
+0,HA,1096,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1199
+0,HA,1096,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1199
+0,HA,1096,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,1949
+0,HA,1096,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2549
+0,HA,1096,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,1799
+0,HA,1096,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,749,1349
+0,HA,1096,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,15599,16199
+0,HA,1097,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1199
+0,HA,1097,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,HA,1097,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1349
+0,HA,1097,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1199
+0,HA,1097,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1049
+0,HA,1097,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2249
+0,HA,1097,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,2399
+0,HA,1097,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,3599
+0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,3149
+0,HA,1097,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2249
+0,HA,1097,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1199,1949
+0,HA,1097,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2099,2849
+0,HA,1097,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11549,12299
+0,HA,1097,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13799,14549
+0,HA,1098,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1349
+0,HA,1098,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,599,1199
+0,HA,1098,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,1949
+0,HA,1098,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,2699
+0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2099
+0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,3149,3749
+0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,21599,22799
+0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,24149,24749
+0,HA,1099,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,899,1649
+0,HA,1099,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,749,1349
+0,HA,1099,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,749,1349
+0,HA,1099,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1199
+0,HA,1099,TimeMeasure1,Test8,Trial1,L,L-Test,0,1199,2699
+0,HA,1099,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,2999
+0,HA,1099,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,899,2249
+0,HA,1099,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,749,1349
+0,HA,1099,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3449,4199
+0,HA,1099,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,10799,11399
+0,HA,1099,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13499,14249
+0,HA,1099,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15599,16199
+0,HA,1100,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1049,1649
+0,HA,1100,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,749,1349
+0,HA,1100,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,2249
+0,HA,1100,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,2849
+0,HA,1100,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,749,2249
+0,HA,1100,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1349,1949
+0,HA,1100,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2699,3299
+0,HA,1100,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,21599,22799
+0,HA,1100,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,23999,24599
+0,HA,1100,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,30299,30899
+0,HA,3101,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1949
+0,HA,3101,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,HA,3101,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,HA,3101,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1049
+0,HA,3101,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,HA,3101,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,728
+0,HA,3101,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,HA,3101,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,2249
+0,HA,3101,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,1649
+0,HA,3101,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1799
+0,HA,3101,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1199
+0,HA,3101,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3149,3749
+0,HA,3101,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7649,8399
+0,HA,3101,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10649,12599
+0,HA,3101,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12749,13649
+0,HA,3101,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,17249,17999
+0,HA,3102,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1499
+0,HA,3102,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,HA,3102,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,HA,3102,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1199
+0,HA,3102,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1199
+0,HA,3102,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,899
+0,HA,3102,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1799
+0,HA,3102,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,1649
+0,HA,3102,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1499
+0,HA,3102,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1049
+0,HA,3102,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2399,3449
+0,HA,3102,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8549,9599
+0,HA,3102,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11849,12449
+0,HA,3103,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1049
+0,HA,3103,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,HA,3103,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,HA,3103,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1349
+0,HA,3103,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1199
+0,HA,3103,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1949
+0,HA,3103,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,1499
+0,HA,3103,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1499
+0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1349
+0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4349,4949
+0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7799,8399
+0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9899,11099
+0,HA,3104,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1049
+0,HA,3104,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,HA,3104,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,HA,3104,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,149,1199
+0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,149,1199
+0,HA,3104,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,883
+0,HA,3104,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,743
+0,HA,3104,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,2099
+0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2512
+0,HA,3104,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,2249
+0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1349
+0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2999,4199
+0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9299,9899
+0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11849,13199
+0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15749,17249
+0,HA,3105,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,HA,3105,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,HA,3105,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,HA,3105,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1349
+0,HA,3105,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1199
+0,HA,3105,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,HA,3105,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1349
+0,HA,3105,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,1649
+0,HA,3105,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1499
+0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,899
+0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2849,3599
+0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7199,8249
+0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11849,12599
+0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,16499,17549
+0,HA,3106,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1199
+0,HA,3106,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,HA,3106,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,HA,3106,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,HA,3106,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,727
+0,HA,3106,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1499
+0,HA,3106,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,1499
+0,HA,3106,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1799
+0,HA,3106,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,899
+0,HA,3106,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,8399,8999
+0,HA,3106,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11099,12149
+0,HA,3106,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,15599,16349
+0,HA,3107,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,HA,3107,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,899
+0,HA,3107,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,HA,3107,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1499
+0,HA,3107,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,1349
+0,HA,3107,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1349
+0,HA,3107,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1049
+0,HA,3107,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2699,3599
+0,HA,3107,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4799,5399
+0,HA,3107,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6299,7199
+0,HA,3107,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,7349,8099
+0,HA,3107,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,12299,13049
+0,HA,4108,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1349,2399
+0,HA,4108,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1199
+0,HA,4108,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,HA,4108,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1049
+0,HA,4108,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1320
+0,HA,4108,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,599,1304
+0,HA,4108,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,449,1018
+0,HA,4108,TimeMeasure1,Test8,Trial1,L,L-Test,0,899,2099
+0,HA,4108,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2399
+0,HA,4108,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1949
+0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,1349
+0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3899,5549
+0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7799,8999
+0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9599,10349
+0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,11099,11699
+0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,13049,13649
+0,HA,4109,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1649
+0,HA,4109,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,HA,4109,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1049
+0,HA,4109,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,149,899
+0,HA,4109,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1799
+0,HA,4109,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2699
+0,HA,4109,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1499
+0,HA,5111,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,HA,5111,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1049
+0,HA,5111,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,HA,5111,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1349
+0,HA,5111,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2099
+0,HA,5111,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1472
+0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1199
+0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3449,4049
+0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5849,8099
+0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,14099,14999
+0,MS,2022,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,899,1649
+0,MS,2022,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,749,1349
+0,MS,2022,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1199
+0,MS,2022,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,MS,2022,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1021
+0,MS,2022,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,1949
+0,MS,2022,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,2099
+0,MS,2022,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2399
+0,MS,2022,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,149,2532
+0,MS,2022,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,MS,2022,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1649
+0,MS,2022,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2849,3749
+0,MS,2022,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,15749,16349
+0,MS,2022,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,17399,18899
+0,MS,2023,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1349
+0,MS,2023,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,MS,2023,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,MS,2023,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1349
+0,MS,2023,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1349
+0,MS,2023,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,2549
+0,MS,2023,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,2249
+0,MS,2023,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,3149
+0,MS,2023,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,599,3149
+0,MS,2023,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1949
+0,MS,2023,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,749,1499
+0,MS,2023,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3749,4349
+0,MS,2023,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8699,9599
+0,MS,2023,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,12599,14399
+0,MS,2023,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,22199,22799
+0,MS,2025,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,2399
+0,MS,2025,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1199
+0,MS,2025,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1199
+0,MS,2025,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1927
+0,MS,2025,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1748
+0,MS,2025,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,1004
+0,MS,2025,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1049
+0,MS,2025,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,3449
+0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,4642
+0,MS,2025,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,3749
+0,MS,2026,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,149,1175
+0,MS,2026,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1199
+0,MS,2026,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,MS,2026,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1499
+0,MS,2026,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1349
+0,MS,2026,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,MS,2026,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1649
+0,MS,2026,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,2549
+0,MS,2026,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1049,2399
+0,MS,2026,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1199,2549
+0,MS,2026,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3449,4649
+0,MS,2026,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7199,7799
+0,MS,2026,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9299,10799
+0,MS,2026,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,26099,26999
+0,MS,2027,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,749,1349
+0,MS,2027,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,MS,2027,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,MS,2027,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2099
+0,MS,2027,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,1799
+0,MS,2027,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,2699
+0,MS,2027,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2699
+0,MS,2027,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1799
+0,MS,2027,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,1349
+0,MS,2027,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,15599,17249
+0,MS,2028,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1049,2249
+0,MS,2028,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,MS,2028,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,MS,2028,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,749,1499
+0,MS,2028,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1649
+0,MS,2028,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,1049
+0,MS,2028,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,MS,2028,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,2399
+0,MS,2028,TimeMeasure1,Test8,Trial2,L,L-Test,0,899,2849
+0,MS,2028,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,3149
+0,MS,2028,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,599,3449
+0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,1199
+0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,2399,2999
+0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,2,3149,4003
+0,MS,2028,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1199
+0,MS,2028,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,28349,29999
+0,MS,2028,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,30449,31049
+0,MS,2028,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,31499,32099
+0,MS,2029,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1649
+0,MS,2029,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,899,1799
+0,MS,2029,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,599,1326
+0,MS,2029,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1499
+0,MS,2029,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1349
+0,MS,2029,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1049
+0,MS,2029,TimeMeasure1,Test8,Trial1,L,L-Test,0,899,2999
+0,MS,2029,TimeMeasure1,Test8,Trial2,L,L-Test,0,299,2699
+0,MS,2029,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,3899
+0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,3749
+0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2699
+0,MS,2029,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,749,1499
+0,MS,2029,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3299,4049
+0,MS,2029,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,16349,18899
+0,MS,2030,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,749,2099
+0,MS,2030,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,599,1349
+0,MS,2030,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,MS,2030,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1199
+0,MS,2030,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1049
+0,MS,2030,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1049
+0,MS,2030,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2399
+0,MS,2030,TimeMeasure1,Test8,Trial2,L,L-Test,0,749,2849
+0,MS,2030,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2849
+0,MS,2030,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2849
+0,MS,2030,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1049,2549
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,899,1949
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4499,6149
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11399,12149
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,12299,12899
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13049,13949
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,14099,14999
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,20249,21149
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,7,21299,22349
+0,MS,2031,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1049
+0,MS,2031,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,MS,2031,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1799
+0,MS,2031,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,1949
+0,MS,2031,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2399
+0,MS,2031,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,2249
+0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,1499
+0,MS,2031,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,749,1649
+0,MS,2031,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,11249,11999
+0,MS,2031,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,12149,12749
+0,MS,2031,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,21449,22049
+0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,2099
+0,MS,2032,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,1049
+0,MS,2032,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1349
+0,MS,2032,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1499
+0,MS,2032,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1499
+0,MS,2032,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,1049
+0,MS,2032,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,1049
+0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,3299
+0,MS,2032,TimeMeasure1,Test8,Trial2,L,L-Test,0,299,3149
+0,MS,2032,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,4649
+0,MS,2032,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,4499
+0,MS,2032,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,2699
+0,MS,2032,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1949
+0,MS,2032,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,18149,20249
+0,MS,2032,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,20399,21449
+0,MS,2032,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,27599,28799
+0,MS,3033,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1799
+0,MS,3033,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1199
+0,MS,3033,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,MS,3033,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,899,1499
+0,MS,3033,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,MS,3033,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,1049
+0,MS,3033,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,MS,3033,TimeMeasure1,Test8,Trial1,L,L-Test,0,899,2699
+0,MS,3033,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2099
+0,MS,3033,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,2249
+0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1349
+0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4499,5099
+0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9899,10649
+0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13349,14849
+0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,18449,19199
+0,MS,3034,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1199
+0,MS,3034,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,MS,3034,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,MS,3034,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1049
+0,MS,3034,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,149,1049
+0,MS,3034,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,711
+0,MS,3034,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1649
+0,MS,3034,TimeMeasure1,Test8,Trial2,L,L-Test,0,299,1949
+0,MS,3034,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2699
+0,MS,3034,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,149,2549
+0,MS,3034,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1649
+0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1349,2249
+0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4499,5399
+0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5549,7049
+0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8999,9599
+0,MS,3035,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,MS,3035,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,MS,3035,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,MS,3035,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,149,1199
+0,MS,3035,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,MS,3035,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,MS,3035,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1949
+0,MS,3035,TimeMeasure1,Test8,Trial2,L,L-Test,0,299,1949
+0,MS,3035,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2999
+0,MS,3035,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,149,2699
+0,MS,3035,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1799
+0,MS,3035,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5849,7349
+0,MS,3035,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,9149,10049
+0,MS,3036,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,MS,3036,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,MS,3036,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1014
+0,MS,3036,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,1049
+0,MS,3036,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,MS,3036,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,2549
+0,MS,3036,TimeMeasure1,Test8,Trial2,L,L-Test,0,299,2249
+0,MS,3036,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,4049
+0,MS,3036,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,3599
+0,MS,3036,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1949
+0,MS,3036,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1349,1949
+0,MS,3036,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,5999,6749
+0,MS,3036,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6899,8249
+0,MS,3036,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10949,11549
+0,MS,4037,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1499
+0,MS,4037,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,MS,4037,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1199
+0,MS,4037,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1649
+0,MS,4037,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,MS,4037,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,149,2399
+0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2999
+0,MS,4037,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,899,2699
+0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1499
+0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1649,2699
+0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4199,5399
+0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,7049,7799
+0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,11549,13349
+0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,13499,15599
+0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,19649,20399
+0,MS,4038,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1199
+0,MS,4038,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,899,1499
+0,MS,4038,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,599,1349
+0,MS,4038,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1499
+0,MS,4038,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1499
+0,MS,4038,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,1049,1649
+0,MS,4038,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1799
+0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1349
+0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4649,5399
+0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11099,12899
+0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,15449,16349
+0,MS,4039,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1649
+0,MS,4039,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,MS,4039,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,1049
+0,MS,4039,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1199
+0,MS,4039,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1349
+0,MS,4039,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,899
+0,MS,4039,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,MS,4039,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2399
+0,MS,4039,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,3149
+0,MS,4039,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,2549
+0,MS,4039,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,1499
+0,MS,4039,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,13799,14849
+0,MS,4039,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,16649,17249
+0,MS,4039,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,17549,21149
+0,MS,4039,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,24749,25349
+0,MS,4040,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1649
+0,MS,4040,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,1049,1649
+0,MS,4040,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,MS,4040,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1649
+0,MS,4040,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,MS,4040,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1049
+0,MS,4040,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,1799
+0,MS,4040,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,899,2699
+0,MS,4040,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1499
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2099,2999
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3899,4649
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8399,8999
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,9149,9899
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,10049,10949
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,12749,13499
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,7,15449,16649
+0,MS,4041,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1949
+0,MS,4041,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,MS,4041,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,149,1012
+0,MS,4041,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1049
+0,MS,4041,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,707
+0,MS,4041,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,MS,4041,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2549
+0,MS,4041,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2679
+0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,2699
+0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1499
+0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2099,2849
+0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5399,6149
+0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,14849,15599
+0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15749,18299
+0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,20399,22496
+0,PD,1000,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1049,1649
+0,PD,1000,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,2099
+0,PD,1000,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,3149
+0,PD,1000,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,899,2249
+0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,749,1499
+0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,14399,15149
+0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,16949,17549
+0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,25049,25649
+0,PD,1001,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1049,1649
+0,PD,1001,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1049
+0,PD,1001,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1049
+0,PD,1001,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,1799
+0,PD,1001,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2549
+0,PD,1001,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1649
+0,PD,1001,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1049,1649
+0,PD,1001,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3599,4199
+0,PD,1001,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,20999,21599
+0,PD,1001,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,22349,22949
+0,PD,1001,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,23549,24599
+0,PD,1001,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,25499,26099
+0,PD,1002,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,2099
+0,PD,1002,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,PD,1002,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PD,1002,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1349
+0,PD,1002,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,PD,1002,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,749,1499
+0,PD,1002,TimeMeasure1,Test8,Trial1,L,L-Test,0,899,3149
+0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,749,3149
+0,PD,1002,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,4349
+0,PD,1002,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,2999
+0,PD,1002,TimeMeasure1,Test10,Trial2,Halway,Hallway Test,0,449,3149
+0,PD,1002,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1349,2249
+0,PD,1002,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2549,3749
+0,PD,1002,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9299,10199
+0,PD,1002,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10649,11549
+0,PD,1002,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12749,13949
+0,PD,1002,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,15299,16199
+0,PD,1002,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,22349,23099
+0,PD,1003,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1049
+0,PD,1003,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2099
+0,PD,1003,TimeMeasure1,Test8,Trial2,L,L-Test,0,599,1949
+0,PD,1003,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,2549
+0,PD,1003,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,449,2399
+0,PD,1003,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1799
+0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1199,1799
+0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4799,5399
+0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,12749,13499
+0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,15149,15899
+0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,21449,22049
+0,PD,1004,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,899,1499
+0,PD,1004,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,899,1499
+0,PD,1004,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,2249
+0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,899,3149
+0,PD,1004,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,749,2099
+0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1799,2399
+0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,12149,12899
+0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,14399,15299
+0,PD,1005,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1349
+0,PD,1005,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1049
+0,PD,1005,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1049
+0,PD,1005,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,899
+0,PD,1005,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,2399
+0,PD,1005,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,3599
+0,PD,1005,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,2099
+0,PD,1005,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,899,1649
+0,PD,1005,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1949,2849
+0,PD,1005,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3299,4349
+0,PD,1005,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,14699,15299
+0,PD,1005,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,16349,17249
+0,PD,1005,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,19049,19649
+0,PD,3006,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1649
+0,PD,3006,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PD,3006,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,PD,3006,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,149,1049
+0,PD,3006,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,149,1049
+0,PD,3006,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,PD,3006,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1949
+0,PD,3006,TimeMeasure1,Test8,Trial2,L,L-Test,0,299,2099
+0,PD,3006,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2999
+0,PD,3006,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,3149
+0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,2699
+0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,899
+0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2399,2999
+0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6899,7499
+0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8099,8999
+0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12299,13499
+0,PD,3007,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1799
+0,PD,3007,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PD,3007,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PD,3007,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1349
+0,PD,3007,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1199
+0,PD,3007,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1049
+0,PD,3007,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,PD,3007,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2249
+0,PD,3007,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,1799
+0,PD,3007,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1199
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1349,1949
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4649,5399
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11099,11699
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,14099,14699
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,14849,15449
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,17099,18449
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,7,21749,22349
+0,PD,3007,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,8,22799,23999
+0,PD,3008,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1649
+0,PD,3008,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,PD,3008,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,PD,3008,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,899
+0,PD,3008,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,PD,3008,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2399
+0,PD,3008,TimeMeasure1,Test8,Trial2,L,L-Test,0,299,1949
+0,PD,3008,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,3599
+0,PD,3008,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,2999
+0,PD,3008,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1799
+0,PD,3008,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,7349,8849
+0,PD,3009,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1649
+0,PD,3009,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PD,3009,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,PD,3009,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1049
+0,PD,3009,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1949
+0,PD,3009,TimeMeasure1,Test8,Trial2,L,L-Test,0,449,2099
+0,PD,3009,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,2999
+0,PD,3009,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,299,2699
+0,PD,3009,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1942
+0,PD,3009,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2699,3299
+0,PD,3009,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,12449,13349
+0,PD,4010,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,149,1049
+0,PD,4010,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,599,1349
+0,PD,4010,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1199
+0,PD,4010,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1199
+0,PD,4010,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,PD,4010,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1016
+0,PD,4010,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,449,1049
+0,PD,4010,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1799
+0,PD,4010,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,1949,4199
+0,PD,4010,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,2249
+0,PD,4010,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,899,1499
+0,PD,4010,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3749,5399
+0,PD,4010,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9749,10349
+0,PD,4010,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11699,13049
+0,PD,4010,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13799,14399
+0,PD,4011,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1349
+0,PD,4011,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,899
+0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1649
+0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2249
+0,PD,4011,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1499
+0,PD,4011,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,2699
+0,PD,4011,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,8399,10799
+0,PD,4011,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11249,12899
+0,PD,4011,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,17999,18599
+0,PD,4012,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1049,1799
+0,PD,4012,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,1949,2699
+0,PD,4012,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,PD,4012,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,PD,4012,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1199
+0,PD,4012,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1337
+0,PD,4012,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1049
+0,PD,4012,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1186
+0,PD,4012,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,2849
+0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,2399
+0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,2549,4022
+0,PD,4012,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1049
+0,PD,4012,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,1199,2699
+0,PD,4012,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1349,2249
+0,PD,4012,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3299,3899
+0,PD,4012,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,13049,13799
+0,PD,4012,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,14999,15749
+0,PD,4012,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,18449,19199
+0,PD,4013,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1799
+0,PD,4013,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PD,4013,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1023
+0,PD,4013,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1649,2549
+0,PD,4013,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,749,3449
+0,PD,4013,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,3449
+0,PD,4013,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,2399
+0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,149,1049
+0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1949,2549
+0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4649,5699
+0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10499,11699
+0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13349,14099
+0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,14399,15449
+0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,19499,20549
+0,PD,4014,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1799
+0,PD,4014,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1025
+0,PD,4014,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1199
+0,PD,4014,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,1333
+0,PD,4014,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1349
+0,PD,4014,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,PD,4014,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,PD,4014,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,3149
+0,PD,4015,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1049,2249
+0,PD,4015,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,599,1199
+0,PD,4015,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1049
+0,PD,4015,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,149,749
+0,PD,4015,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,PD,4015,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,PD,4015,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,2099
+0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,749,2699
+0,PD,4015,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,2249
+0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,599,1799
+0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,5249,6299
+0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9599,10199
+0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11849,12599
+0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,14549,17249
+0,PD,4018,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,899,2099
+0,PD,4018,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,PD,4018,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1049
+0,PD,4018,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1199
+0,PD,4018,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2549
+0,PD,4018,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2999
+0,PD,4018,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,899,3149
+0,PD,4018,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1949,2699
+0,PD,4018,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2999,3749
+0,PD,4018,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,15449,16349
+0,PD,4018,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,18749,20549
+0,PD,4018,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,23399,23999
+0,PD,4019,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1499
+0,PD,4019,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,PD,4019,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PD,4019,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,149,899
+0,PD,4019,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1499
+0,PD,4019,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1649
+0,PD,4019,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2399
+0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1349
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2699,3749
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3899,4499
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8099,9149
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,9299,9899
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,10199,10949
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,11399,12299
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,7,12449,14099
+0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,899,3572
+0,PD,4020,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,599,1499
+0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1499
+0,PD,4020,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,749,1649
+0,PD,4020,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1049,2055
+0,PD,4020,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,1049
+0,PD,4020,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1199
+0,PD,4020,TimeMeasure1,Test8,Trial1,L,L-Test,0,2699,5099
+0,PD,4020,TimeMeasure1,Test8,Trial1,L,L-Test,1,5249,6749
+0,PD,4020,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,599,4748
+0,PD,4021,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,1199,1755
+0,PD,4021,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1199
+0,PD,4021,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1499
+0,PD,4021,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1462
+0,PD,4021,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2999
+0,PD,4021,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2822
+0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1949
+0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1199
+0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4049,4649
+0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6599,7199
+0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10049,10799
+0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12149,13049
+0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,15449,16349
+0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,22499,23080
+0,PFF,4060,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,749,1499
+0,PFF,4060,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,599,1349
+0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,5549,6149
+0,PFF,4061,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1349
+0,PFF,4061,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1199
+0,PFF,4061,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1349
+0,PFF,4061,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1349
+0,PFF,4061,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,1349
+0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,2249,2999
+0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5099,6449
+0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,7349,8099
+0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11099,11699
+0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,28649,29399
+0,PFF,5065,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,1649
+0,PFF,5065,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PFF,5065,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1199
+0,PFF,5065,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,599,1499
+0,PFF,5065,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,899
+0,PFF,5065,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,PFF,5065,TimeMeasure1,Test8,Trial1,L,L-Test,0,899,2699
+0,PFF,5065,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,3149
+0,PFF,5065,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1649
+0,PFF,5065,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,1799,2849
+0,PFF,5065,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1199,1799
+0,PFF,5065,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,10949,12299
+0,PFF,5065,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,15599,16199
+0,PFF,5066,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,149,1049
+0,PFF,5066,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PFF,5066,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,PFF,5066,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1349
+0,PFF,5066,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1349
+0,PFF,5066,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1649
+0,PFF,5066,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2399
+0,PFF,5066,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,1499
+0,PFF,5066,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1199
+0,PFF,5066,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1799,2549
+0,PFF,5066,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8849,9899
+0,PFF,5067,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1349
+0,PFF,5067,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1302
+0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,PFF,5067,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1349
+0,PFF,5067,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1199
+0,PFF,5067,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,899
+0,PFF,5067,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,880
+0,PFF,5067,TimeMeasure1,Test8,Trial1,L,L-Test,0,149,2249
+0,PFF,5067,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2973
+0,PFF,5067,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,149,2549
+0,PFF,5067,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1199
+0,PFF,5067,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1499,2099
+0,PFF,5067,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3449,4049
+0,PFF,5067,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,4499,5099
+0,PFF,5067,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,10949,12599
+0,PFF,5067,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,13799,15449
+0,PFF,5067,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,17399,18299
+0,PFF,5068,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1349,2849
+0,PFF,5068,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1349
+0,PFF,5068,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,749,1649
+0,PFF,5068,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,2099
+0,PFF,5068,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,2099
+0,PFF,5068,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,599,1799
+0,PFF,5068,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1349
+0,PFF,5068,TimeMeasure1,Test8,Trial1,L,L-Test,0,599,2399
+0,PFF,5068,TimeMeasure1,Test8,Trial1,L,L-Test,1,2849,4049
+0,PFF,5068,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,5249
+0,PFF,5068,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,3299
+0,PFF,5068,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,3449,4499
+0,PFF,5068,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,899,1649
+0,PFF,5068,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4949,6299
+0,PFF,5068,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,25649,26699
+0,PFF,5069,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1949
+0,PFF,5069,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,PFF,5069,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1189
+0,PFF,5069,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1499
+0,PFF,5069,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,299,1349
+0,PFF,5069,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,1049
+0,PFF,5069,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,PFF,5069,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,3149
+0,PFF,5069,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,3749
+0,PFF,5069,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,1349
+0,PFF,5069,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,2699,5232
+0,PFF,5069,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1649
+0,PFF,5069,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4199,4949
+0,PFF,5069,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5099,5999
+0,PFF,5069,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8249,8999
+0,PFF,5069,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,9299,10949
+0,PFF,5069,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,11549,12749
+0,PFF,5069,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,17099,17699
+0,PFF,5070,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1199
+0,PFF,5070,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,PFF,5070,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,PFF,5070,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,149,1349
+0,PFF,5070,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,149,1049
+0,PFF,5070,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,899
+0,PFF,5070,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,149,749
+0,PFF,5070,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1949
+0,PFF,5070,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2699
+0,PFF,5070,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2399
+0,PFF,5070,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,2549
+0,PFF,5070,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,7949,9599
+0,PFF,5070,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9749,10349
+0,PFF,5070,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13499,14549
+0,PFF,5071,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1199
+0,PFF,5071,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1049
+0,PFF,5071,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,749
+0,PFF,5071,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,449,1199
+0,PFF,5071,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1049
+0,PFF,5071,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,749
+0,PFF,5071,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,149,1649
+0,PFF,5071,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,2549
+0,PFF,5071,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1799
+0,PFF,5071,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1349
+0,PFF,5071,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,8999,10049
+0,PFF,5071,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,10349,10949
+0,PFF,5072,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1049
+0,PFF,5072,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,PFF,5072,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,149,899
+0,PFF,5072,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1499
+0,PFF,5072,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1349
+0,PFF,5072,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,887
+0,PFF,5072,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1049
+0,PFF,5072,TimeMeasure1,Test8,Trial1,L,L-Test,0,449,1949
+0,PFF,5072,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2699
+0,PFF,5072,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1799
+0,PFF,5072,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1199
+0,PFF,5072,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1349,2849
+0,PFF,5072,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4499,5999
+0,PFF,5072,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,7499,8099
+0,PFF,5074,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,599,2249
+0,PFF,5074,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1649
+0,PFF,5074,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,449,1349
+0,PFF,5074,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,599,2099
+0,PFF,5074,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1049,1949
+0,PFF,5074,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,599,1499
+0,PFF,5074,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,899,1649
+0,PFF,5074,TimeMeasure1,Test8,Trial1,L,L-Test,0,1049,3599
+0,PFF,5074,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,1049,4349
+0,PFF,5074,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,599,1349
+0,PFF,5074,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,2999,3599
+0,PFF,5074,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,2,4049,4949
+0,PFF,5075,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1768
+0,PFF,5075,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PFF,5075,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,899
+0,PFF,5075,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,299,1199
+0,PFF,5075,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,149,1199
+0,PFF,5075,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,299,899
+0,PFF,5075,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,899
+0,PFF,5075,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,2399
+0,PFF,5075,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,2999
+0,PFF,5075,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,2099
+0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,299,1649
+0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2099,2699
+0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3299,3899
+0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6599,8249
+0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,10799,11999
+0,PFF,5076,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,299,1949
+0,PFF,5076,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,449,1349
+0,PFF,5076,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,299,1049
+0,PFF,5076,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,749,1349
+0,PFF,5076,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,149,1349
+0,PFF,5076,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1349
+0,PFF,5076,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1049
+0,PFF,5076,TimeMeasure1,Test8,Trial1,L,L-Test,0,149,2849
+0,PFF,5076,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,299,4499
+0,PFF,5076,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,449,3299
+0,PFF,5076,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1349
+0,PFF,5076,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,6449,7949
+0,PFF,5076,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11099,11699
+0,PFF,5077,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,449,1199
+0,PFF,5077,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,299,1199
+0,PFF,5077,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,449,1349
+0,PFF,5077,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,2399,2999
+0,PFF,5078,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,449,1199
+0,PFF,5078,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,449,1349
+0,PFF,5078,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,149,883
+0,PFF,5078,TimeMeasure1,Test8,Trial1,L,L-Test,0,299,1649
+0,PFF,5078,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,149,2849
+0,PFF,5078,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,299,1949
+0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,449,1049
+0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,5549,6599
+0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6749,7349
