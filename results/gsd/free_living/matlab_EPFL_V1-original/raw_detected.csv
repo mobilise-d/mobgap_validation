@@ -1,4 +1,4 @@
-cv_fold,cohort,participant_id,time_measure,recording,recording_name,recording_name_pretty,gs_id,start,end
+fold,cohort,participant_id,time_measure,recording,recording_name,recording_name_pretty,gs_id,start,end
 0,CHF,2079,TimeMeasure1,Recording4,2.5h,Free Living 2.5h,0,500,1218
 0,CHF,2079,TimeMeasure1,Recording4,2.5h,Free Living 2.5h,1,3388,3878
 0,CHF,2079,TimeMeasure1,Recording4,2.5h,Free Living 2.5h,2,4105,13472

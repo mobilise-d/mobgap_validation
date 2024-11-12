@@ -1,4 +1,4 @@
-cv_fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,gs_id,start,end
+fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,gs_id,start,end
 0,CHF,2079,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,600,2101
 0,CHF,2079,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,450,1501
 0,CHF,2079,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,300,1351
@@ -118,7 +118,7 @@ cv_fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty
 0,CHF,5089,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,300,901
 0,CHF,5089,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,750
 0,CHF,5089,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,150,751
-0,CHF,5089,TimeMeasure1,Test8,Trial1,L,L-Test,0,300,1801
+0,CHF,5089,TimeMeasure1,Test8,Trial1,L,L-Test,0,300,1950
 0,CHF,5089,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,150,2551
 0,CHF,5089,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,150,1801
 0,CHF,5089,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,450,1201

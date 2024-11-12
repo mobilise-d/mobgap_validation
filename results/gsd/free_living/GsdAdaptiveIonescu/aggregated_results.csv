@@ -23,7 +23,6 @@ tn_samples,728686.0693069306
 specificity,0.9355769553177031
 accuracy,0.9283121968705248
 npv,0.9818773052569463
-runtime_s,5.530868524792174
 combined__reference_gs_duration_s,127690.64
 combined__detected_gs_duration_s,171216.97
 combined__gs_duration_error_s,43526.33

@@ -1,4 +1,4 @@
-cv_fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,gs_id,start,end
+fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,gs_id,start,end
 0,CHF,2079,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,948,1948
 0,CHF,2079,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,510,1368
 0,CHF,2079,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,388,1288
