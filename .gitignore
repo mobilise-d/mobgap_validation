@@ -79,3 +79,6 @@ $RECYCLE.BIN/
 
 # lock files
 .~*
+
+# Old raw files
+_old_data_raw
