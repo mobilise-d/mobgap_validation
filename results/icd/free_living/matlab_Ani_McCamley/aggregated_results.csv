@@ -1,0 +1,15 @@
+,0
+tp_samples,1549.6831683168316
+fp_samples,81.4059405940594
+fn_samples,113.72277227722772
+precision,0.9220545305282934
+recall,0.9028910028529502
+f1_score,0.9118449170205577
+ic_absolute_error_s,0.061167260354842296
+ic_relative_error,0.08783281841237482
+combined__tp_samples,156518.0
+combined__fp_samples,8222.0
+combined__fn_samples,11486.0
+combined__precision,0.9500910525676824
+combined__recall,0.9316325801766625
+combined__f1_score,0.9407712836294568
