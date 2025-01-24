@@ -5,11 +5,13 @@ fn_samples,95.21782178217822
 precision,0.9227596026268126
 recall,0.9281044863348806
 f1_score,0.9246856026469421
-ic_absolute_error_s,0.06185641368280086
-ic_relative_error,0.0893331294800213
+tp_absolute_error_s,0.06185641368280086
+tp_relative_error,0.0893331294800213
 combined__tp_samples,183356.0
 combined__fp_samples,10167.0
 combined__fn_samples,9617.0
 combined__precision,0.9474636089767108
 combined__recall,0.9501640125820711
 combined__f1_score,0.94881188938566
+combined__tp_absolute_error_s,0.05774275180523137
+combined__tp_relative_error,0.4596821065144703

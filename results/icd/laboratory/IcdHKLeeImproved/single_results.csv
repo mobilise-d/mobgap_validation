@@ -1,4 +1,4 @@
-fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,tp_samples,fp_samples,fn_samples,precision,recall,f1_score,ic_absolute_error_s,ic_relative_error
+fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,tp_samples,fp_samples,fn_samples,precision,recall,f1_score,tp_absolute_error_s,tp_relative_error
 0,CHF,2079,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,14,0,1,1.0,0.9333333333333333,0.9655172413793104,0.11928571428571429,0.1669229586344764
 0,CHF,2079,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,10,0,1,1.0,0.9090909090909091,0.9523809523809523,0.09899999999999999,0.13318385650224215
 0,CHF,2079,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,10,0,1,1.0,0.9090909090909091,0.9523809523809523,0.136,0.17894736842105263

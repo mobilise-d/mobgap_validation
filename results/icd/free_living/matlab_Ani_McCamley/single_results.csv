@@ -1,4 +1,4 @@
-fold,cohort,participant_id,time_measure,recording,recording_name,recording_name_pretty,tp_samples,fp_samples,fn_samples,precision,recall,f1_score,ic_absolute_error_s,ic_relative_error
+fold,cohort,participant_id,time_measure,recording,recording_name,recording_name_pretty,tp_samples,fp_samples,fn_samples,precision,recall,f1_score,tp_absolute_error_s,tp_relative_error
 0,CHF,2079,TimeMeasure1,Recording4,2.5h,Free Living 2.5h,956,100,112,0.9053030303030303,0.8951310861423221,0.9001883239171374,0.06064853556485366,0.08903326503843767
 0,CHF,4080,TimeMeasure1,Recording4,2.5h,Free Living 2.5h,1230,45,49,0.9647058823529412,0.9616888193901486,0.9631949882537197,0.031910569105691115,0.04912211397950535
 0,CHF,4081,TimeMeasure1,Recording4,2.5h,Free Living 2.5h,460,45,50,0.9108910891089109,0.9019607843137255,0.9064039408866996,0.11802173913043476,0.1794034842708771
