@@ -1,0 +1,17 @@
+,0
+tp_samples,1774.8415841584158
+fp_samples,98.08910891089108
+fn_samples,135.78217821782178
+precision,0.9213632742282908
+recall,0.9037171726200852
+f1_score,0.9118456784648268
+tp_absolute_timing_error_s,0.06180687346367366
+tp_relative_timing_error,0.08450224549741833
+combined__tp_samples,179259.0
+combined__fp_samples,9907.0
+combined__fn_samples,13714.0
+combined__precision,0.9476280092617066
+combined__recall,0.928933063174641
+combined__f1_score,0.938187413480435
+combined__tp_absolute_timing_error_s,0.056536073502585646
+combined__tp_relative_timing_error,0.4468184063548255
