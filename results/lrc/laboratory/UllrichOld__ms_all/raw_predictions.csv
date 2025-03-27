@@ -449,7 +449,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,0,left,left
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,1,right,right
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,2,right,left
-0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,4,right,left
+0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,4,left,left
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,5,right,right
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,6,left,left
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,7,right,right
@@ -459,7 +459,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,11,right,right
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,12,left,left
 0,CHF,4080,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,13,right,right
-0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,right,left
+0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,left,left
 0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1,right,right
 0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,2,left,left
 0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,3,right,right
@@ -477,7 +477,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,15,right,right
 0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,16,left,left
 0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,17,right,right
-0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,18,left,left
+0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,18,right,left
 0,CHF,4082,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,19,right,right
 0,CHF,4082,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,0,left,right
 0,CHF,4082,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,1,left,left
@@ -522,7 +522,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4082,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,9,left,left
 0,CHF,4082,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,10,right,right
 0,CHF,4082,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,11,left,left
-0,CHF,4082,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,left,left
+0,CHF,4082,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,right,left
 0,CHF,4082,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,1,right,right
 0,CHF,4082,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,left,left
 0,CHF,4082,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,3,right,right
@@ -575,10 +575,10 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4082,TimeMeasure1,Test8,Trial1,L,L-Test,0,33,left,left
 0,CHF,4082,TimeMeasure1,Test8,Trial1,L,L-Test,0,34,right,right
 0,CHF,4082,TimeMeasure1,Test8,Trial1,L,L-Test,0,35,left,left
-0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,0,right,right
+0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,0,left,right
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,1,left,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,2,left,right
-0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,3,left,left
+0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,3,right,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,4,right,right
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,5,left,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,6,right,right
@@ -588,7 +588,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,10,right,right
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,11,left,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,12,right,right
-0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,13,left,left
+0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,13,right,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,14,right,right
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,15,left,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,16,right,right
@@ -600,7 +600,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,22,right,right
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,23,left,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,24,right,right
-0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,25,left,left
+0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,25,right,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,26,right,right
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,27,right,left
 0,CHF,4082,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,28,right,right
@@ -648,7 +648,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4083,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,6,right,right
 0,CHF,4083,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,7,left,left
 0,CHF,4083,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,8,left,right
-0,CHF,4083,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,9,right,left
+0,CHF,4083,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,9,left,left
 0,CHF,4083,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,0,right,right
 0,CHF,4083,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,left,left
 0,CHF,4083,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,right,right
@@ -663,7 +663,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4083,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,right,right
 0,CHF,4083,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,3,left,left
 0,CHF,4083,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,4,right,right
-0,CHF,4083,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,5,left,left
+0,CHF,4083,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,5,right,left
 0,CHF,4083,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,6,right,right
 0,CHF,4083,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,7,right,left
 0,CHF,4083,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,0,right,right
@@ -707,7 +707,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,6,right,right
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,7,left,left
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,8,right,right
-0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,9,left,left
+0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,9,right,left
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,10,left,right
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,11,left,left
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,12,right,right
@@ -735,7 +735,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,34,right,right
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,35,right,left
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,36,right,right
-0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,37,left,left
+0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,37,right,left
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,38,right,right
 0,CHF,4083,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,39,right,left
 0,CHF,4083,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,right,left
@@ -758,7 +758,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,4083,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,17,right,right
 0,CHF,4083,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,18,left,left
 0,CHF,4083,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,19,right,right
-0,CHF,4083,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,20,left,left
+0,CHF,4083,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,20,right,left
 0,CHF,4083,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,21,right,right
 0,CHF,4083,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,left,left
 0,CHF,4083,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1,right,right
@@ -1072,7 +1072,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,5086,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,right,right
 0,CHF,5086,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,left,left
 0,CHF,5086,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,left
-0,CHF,5086,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,right,right
+0,CHF,5086,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,left,right
 0,CHF,5086,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,left,left
 0,CHF,5086,TimeMeasure1,Test8,Trial1,L,L-Test,0,3,left,right
 0,CHF,5086,TimeMeasure1,Test8,Trial1,L,L-Test,0,4,left,left
@@ -1147,7 +1147,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2,right,right
 0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,3,left,left
 0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,4,right,right
-0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,right,left
+0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,left,left
 0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,6,left,right
 0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,7,right,left
 0,CHF,5086,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,8,left,right
@@ -1543,7 +1543,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,14,left,left
 0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,15,right,right
 0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,16,left,left
-0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,17,left,right
+0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,17,right,right
 0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,0,left,right
 0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,1,left,left
 0,CHF,5088,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,right,right
@@ -1859,7 +1859,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,10,right,right
 0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,11,left,left
 0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,12,right,right
-0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,13,left,left
+0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,13,right,left
 0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,0,right,right
 0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,1,left,left
 0,CHF,5090,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,right,right
@@ -1913,7 +1913,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1042,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,left,left
 0,COPD,1042,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,6,right,right
 0,COPD,1042,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,left,right
-0,COPD,1042,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,left,left
+0,COPD,1042,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,right,left
 0,COPD,1042,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,left,right
 0,COPD,1042,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,3,right,left
 0,COPD,1042,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,4,left,right
@@ -1957,7 +1957,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,left
 0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,right,right
 0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,20,right,left
-0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,right,right
+0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,left,right
 0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,22,right,left
 0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,23,left,right
 0,COPD,1042,TimeMeasure1,Test8,Trial1,L,L-Test,0,24,right,left
@@ -2123,10 +2123,10 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,10,left,right
 0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,right,right
 0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,1,right,left
-0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,right,right
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,left,right
 0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,3,left,left
 0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,4,right,right
-0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,5,left,left
+0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,5,right,left
 0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6,left,right
 0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,7,left,left
 0,COPD,1042,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8,left,right
@@ -2174,7 +2174,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,left,left
 0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,left,right
 0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,left,left
-0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,3,right,right
+0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,3,left,right
 0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,4,left,left
 0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,5,right,right
 0,COPD,1043,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,6,right,left
@@ -2793,7 +2793,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1046,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,3,left,left
 0,COPD,1046,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,4,right,right
 0,COPD,1046,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,left,left
-0,COPD,1046,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,right,right
+0,COPD,1046,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,left,right
 0,COPD,1046,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,left
 0,COPD,1046,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,right,right
 0,COPD,1046,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,right,left
@@ -2844,7 +2844,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,6,right,right
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,7,left,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,8,left,right
-0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,9,left,left
+0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,9,right,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,10,right,right
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,11,left,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,12,right,right
@@ -2852,13 +2852,13 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,14,right,right
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,15,left,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,16,right,right
-0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,left,left
+0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,right,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,18,left,right
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,19,left,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,20,right,right
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,21,left,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,22,right,right
-0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,23,left,left
+0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,23,right,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,24,left,right
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,25,right,left
 0,COPD,1046,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,26,left,right
@@ -2898,7 +2898,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,26,right,right
 0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,27,right,left
 0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,28,right,right
-0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,29,left,left
+0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,29,right,left
 0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,30,right,right
 0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,31,left,left
 0,COPD,1046,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,32,right,right
@@ -2906,7 +2906,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,right,right
 0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1,right,left
 0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,2,right,right
-0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,left,left
+0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,right,left
 0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,4,right,right
 0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,5,left,left
 0,COPD,1046,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,6,right,right
@@ -3100,13 +3100,13 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4,right,right
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,5,left,left
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,7,left,left
-0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,9,left,left
+0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,9,right,left
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,0,right,right
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,1,left,left
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,right,right
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3,left,left
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4,right,right
-0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5,left,left
+0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5,right,left
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,left,right
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,1,left,left
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,right,right
@@ -3137,7 +3137,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,15,left,left
 0,COPD,1047,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,16,right,right
 0,COPD,1048,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,right,left
-0,COPD,1048,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1,right,right
+0,COPD,1048,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1,left,right
 0,COPD,1048,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,2,right,left
 0,COPD,1048,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,3,left,right
 0,COPD,1048,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,4,right,left
@@ -3217,7 +3217,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,15,right,left
 0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,16,left,right
 0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,17,right,left
-0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,right,right
+0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,right
 0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,left,left
 0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,20,left,right
 0,COPD,1048,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,left,left
@@ -3394,7 +3394,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1048,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,24,right,left
 0,COPD,1048,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,25,left,right
 0,COPD,1048,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,26,right,left
-0,COPD,1048,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,27,right,right
+0,COPD,1048,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,27,left,right
 0,COPD,1048,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,28,left,left
 0,COPD,1048,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,right,right
 0,COPD,1048,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1,left,left
@@ -3509,7 +3509,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,15,right,right
 0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,16,right,left
 0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,17,left,right
-0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,left
+0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,right,left
 0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,right,right
 0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,20,left,left
 0,COPD,1049,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,right,right
@@ -3576,7 +3576,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1049,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,37,right,right
 0,COPD,1049,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,38,left,left
 0,COPD,1049,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,39,right,right
-0,COPD,1049,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,40,right,left
+0,COPD,1049,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,40,left,left
 0,COPD,1049,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,0,left,left
 0,COPD,1049,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,1,right,right
 0,COPD,1049,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,2,left,left
@@ -3674,7 +3674,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6,right,left
 0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,7,right,right
 0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8,left,left
-0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9,left,right
+0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9,right,right
 0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,0,left,left
 0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,1,right,right
 0,COPD,1049,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,2,left,left
@@ -4241,7 +4241,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,10,left,left
 0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,11,right,right
 0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,12,left,left
-0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,13,left,right
+0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,13,right,right
 0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,14,left,left
 0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,15,right,right
 0,COPD,1052,TimeMeasure1,Test8,Trial1,L,L-Test,0,16,left,left
@@ -4434,7 +4434,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1053,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,right,left
 0,COPD,1053,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,right,right
 0,COPD,1053,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,left,left
-0,COPD,1053,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,right,right
+0,COPD,1053,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,left,right
 0,COPD,1053,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,right,left
 0,COPD,1053,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,right,right
 0,COPD,1053,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,right,left
@@ -4613,7 +4613,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1054,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,left,left
 0,COPD,1054,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,3,right,right
 0,COPD,1054,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,4,right,left
-0,COPD,1054,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,5,right,right
+0,COPD,1054,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,5,left,right
 0,COPD,1054,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,0,left,left
 0,COPD,1054,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1,right,right
 0,COPD,1054,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,2,left,left
@@ -4735,13 +4735,13 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1054,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,33,left,left
 0,COPD,1054,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,34,right,right
 0,COPD,1054,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,35,right,left
-0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,right,right
+0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,left,right
 0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1,left,left
 0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,2,left,right
 0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,right,left
 0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,4,right,right
 0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,5,left,left
-0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,6,left,right
+0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,6,right,right
 0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,7,left,left
 0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,8,right,right
 0,COPD,1054,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,9,left,left
@@ -4764,7 +4764,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,7,left,left
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,8,right,right
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,0,right,right
-0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1,left,left
+0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1,right,left
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2,left,right
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3,left,left
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4,right,right
@@ -4774,7 +4774,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,0,left,left
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,1,left,right
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,left,left
-0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3,right,right
+0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3,left,right
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4,left,left
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5,right,right
 0,COPD,1054,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6,left,left
@@ -5098,7 +5098,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,2,right,right
 0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,3,left,left
 0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,4,right,right
-0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,right,left
+0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,left,left
 0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,right,right
 0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,left,left
 0,COPD,2056,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,8,left,right
@@ -5131,7 +5131,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,2056,TimeMeasure1,Test8,Trial1,L,L-Test,0,15,left,left
 0,COPD,2056,TimeMeasure1,Test8,Trial1,L,L-Test,0,16,right,right
 0,COPD,2056,TimeMeasure1,Test8,Trial1,L,L-Test,0,17,left,left
-0,COPD,2056,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,right,right
+0,COPD,2056,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,right
 0,COPD,2056,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,0,right,right
 0,COPD,2056,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,1,left,left
 0,COPD,2056,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,2,right,right
@@ -5286,7 +5286,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,2057,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,4,right,right
 0,COPD,2057,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,left,left
 0,COPD,2057,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,right,right
-0,COPD,2057,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,left,left
+0,COPD,2057,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,right,left
 0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,right,right
 0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,1,left,left
 0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,right,right
@@ -5294,7 +5294,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,4,right,right
 0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,5,left,left
 0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,6,right,right
-0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,7,left,left
+0,COPD,2057,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,7,right,left
 0,COPD,2057,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,0,right,right
 0,COPD,2057,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,1,left,left
 0,COPD,2057,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,2,right,right
@@ -5430,7 +5430,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,15,left,left
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,16,right,right
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,17,left,left
-0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,18,right,right
+0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,18,left,right
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,0,right,right
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,1,right,left
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,right,right
@@ -5439,7 +5439,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6,right,right
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7,left,left
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8,right,right
-0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9,right,left
+0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9,left,left
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11,left,left
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,12,right,right
 0,COPD,2057,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,13,left,left
@@ -5488,7 +5488,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,2058,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,right,right
 0,COPD,2058,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,left,left
 0,COPD,2058,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,8,right,right
-0,COPD,2058,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,right,right
+0,COPD,2058,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,left,right
 0,COPD,2058,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,1,left,left
 0,COPD,2058,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,right,right
 0,COPD,2058,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,3,left,left
@@ -5656,7 +5656,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4,left,left
 0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5,right,right
 0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6,left,left
-0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,right,right
+0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,left,right
 0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,1,left,left
 0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,right,right
 0,COPD,2058,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,3,left,left
@@ -5811,7 +5811,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,right,left
 0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,1,right,right
 0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,left,left
-0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,3,right,right
+0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,3,left,right
 0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,4,left,left
 0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,5,right,right
 0,HA,1091,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6,left,left
@@ -5858,7 +5858,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1092,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,3,right,right
 0,HA,1092,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,4,left,left
 0,HA,1092,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,right,right
-0,HA,1092,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,left,left
+0,HA,1092,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,right,left
 0,HA,1092,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,right,left
 0,HA,1092,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,1,right,right
 0,HA,1092,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,left,left
@@ -6030,7 +6030,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2,left,left
 0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,3,right,right
 0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,4,right,left
-0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,left,right
+0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,right,right
 0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,0,right,left
 0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1,right,right
 0,HA,1092,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2,left,left
@@ -6260,7 +6260,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2,right,right
 0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,3,right,left
 0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,4,right,right
-0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,left,left
+0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,right,left
 0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,0,right,right
 0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1,left,left
 0,HA,1093,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,2,left,right
@@ -6550,7 +6550,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1094,TimeMeasure1,Test10,Trial2,Halway,Hallway Test,0,26,right,right
 0,HA,1094,TimeMeasure1,Test10,Trial2,Halway,Hallway Test,0,27,left,left
 0,HA,1094,TimeMeasure1,Test10,Trial2,Halway,Hallway Test,0,28,right,right
-0,HA,1094,TimeMeasure1,Test10,Trial2,Halway,Hallway Test,0,29,left,left
+0,HA,1094,TimeMeasure1,Test10,Trial2,Halway,Hallway Test,0,29,right,left
 0,HA,1094,TimeMeasure1,Test10,Trial2,Halway,Hallway Test,0,30,left,right
 0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,left,left
 0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1,right,right
@@ -6602,7 +6602,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,1,left,left
 0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,2,right,right
 0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,3,left,left
-0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,4,right,right
+0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,4,left,right
 0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,5,left,left
 0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,6,right,right
 0,HA,1094,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,7,left,left
@@ -6761,7 +6761,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,9,right,right
 0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,10,left,left
 0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,11,right,right
-0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12,right,left
+0,HA,1095,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12,left,left
 0,HA,1096,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,left,left
 0,HA,1096,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1,right,right
 0,HA,1096,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,2,left,left
@@ -6777,7 +6777,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1096,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,3,left,left
 0,HA,1096,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,4,left,right
 0,HA,1096,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,5,left,left
-0,HA,1096,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,6,right,right
+0,HA,1096,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,6,left,right
 0,HA,1096,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,0,left,right
 0,HA,1096,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1,left,left
 0,HA,1096,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,2,right,right
@@ -6892,7 +6892,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1097,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,left,left
 0,HA,1097,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,right,right
 0,HA,1097,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,left,left
-0,HA,1097,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,left,right
+0,HA,1097,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,right,right
 0,HA,1097,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,right,right
 0,HA,1097,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,right,left
 0,HA,1097,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,left,right
@@ -7053,7 +7053,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,29,left,left
 0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,30,right,right
 0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,31,left,left
-0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,32,right,right
+0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,32,left,right
 0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,33,left,left
 0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,34,right,right
 0,HA,1097,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,35,left,left
@@ -7211,7 +7211,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,2,left,left
 0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,right,right
 0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,4,left,left
-0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,5,left,right
+0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,5,right,right
 0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,6,right,left
 0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,7,right,right
 0,HA,1098,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,8,left,left
@@ -7242,7 +7242,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,6,left,left
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,7,right,right
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,8,right,right
-0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,9,right,left
+0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,9,left,left
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,0,left,right
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,right,right
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3,left,left
@@ -7263,7 +7263,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,6,right,right
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,7,left,left
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,8,right,right
-0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,0,left,left
+0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,0,right,left
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,1,right,right
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,2,left,left
 0,HA,1098,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,3,right,right
@@ -7871,7 +7871,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3102,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,3,right,right
 0,HA,3102,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,4,left,left
 0,HA,3102,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,5,right,right
-0,HA,3102,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,6,left,left
+0,HA,3102,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,6,right,left
 0,HA,3102,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,left
 0,HA,3102,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,left,right
 0,HA,3102,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,left,left
@@ -8118,7 +8118,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,1,left,left
 0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,left,right
 0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3,left,left
-0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4,left,right
+0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4,right,right
 0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5,left,left
 0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6,left,right
 0,HA,3103,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,left,right
@@ -8153,7 +8153,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3104,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,11,right,left
 0,HA,3104,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,12,left,right
 0,HA,3104,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,13,left,left
-0,HA,3104,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,14,right,right
+0,HA,3104,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,14,left,right
 0,HA,3104,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,0,right,right
 0,HA,3104,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,1,right,left
 0,HA,3104,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,2,right,right
@@ -8191,7 +8191,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,right,left
 0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,right,right
 0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,left,left
-0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,8,right,right
+0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,8,left,right
 0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,9,right,left
 0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,10,left,right
 0,HA,3104,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,11,left,left
@@ -8231,7 +8231,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3104,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,right,left
 0,HA,3104,TimeMeasure1,Test8,Trial1,L,L-Test,0,20,left,right
 0,HA,3104,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,right,left
-0,HA,3104,TimeMeasure1,Test8,Trial1,L,L-Test,0,22,right,right
+0,HA,3104,TimeMeasure1,Test8,Trial1,L,L-Test,0,22,left,right
 0,HA,3104,TimeMeasure1,Test8,Trial1,L,L-Test,0,23,right,left
 0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,0,right,right
 0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,1,right,left
@@ -8253,7 +8253,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,right,left
 0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,18,left,right
 0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,19,left,left
-0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,20,right,right
+0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,20,left,right
 0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,21,right,left
 0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,22,left,right
 0,HA,3104,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,23,right,left
@@ -8339,7 +8339,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11,right,left
 0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,12,right,left
 0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13,right,left
-0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,14,right,left
+0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,14,left,left
 0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,0,right,right
 0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,1,left,left
 0,HA,3104,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,2,right,right
@@ -8459,7 +8459,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,3,right,right
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,4,left,left
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,right,right
-0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,6,left,left
+0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,6,right,left
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,7,left,right
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,8,right,left
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,0,right,right
@@ -8493,7 +8493,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8,left,right
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9,left,left
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10,right,right
-0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11,left,left
+0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11,right,left
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,0,left,left
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,1,right,right
 0,HA,3105,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,2,right,left
@@ -8741,7 +8741,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,3107,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,4,right,left
 0,HA,3107,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,5,left,right
 0,HA,3107,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,6,right,left
-0,HA,3107,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,left
+0,HA,3107,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,right,left
 0,HA,3107,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,left,right
 0,HA,3107,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,right,left
 0,HA,3107,TimeMeasure1,Test8,Trial1,L,L-Test,0,3,left,right
@@ -8872,7 +8872,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,4108,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,left,left
 0,HA,4108,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,right,right
 0,HA,4108,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,9,right,right
-0,HA,4108,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,11,right,right
+0,HA,4108,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,11,left,right
 0,HA,4108,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,right,left
 0,HA,4108,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,1,right,right
 0,HA,4108,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,left,left
@@ -9001,7 +9001,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,16,left,left
 0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,17,right,right
 0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,right,right
-0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,1,left,left
+0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,1,right,left
 0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,left,right
 0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,3,right,left
 0,HA,4108,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,4,right,right
@@ -9166,7 +9166,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,5111,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,2,right,right
 0,HA,5111,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,3,right,left
 0,HA,5111,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,4,right,right
-0,HA,5111,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,right,left
+0,HA,5111,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,left,left
 0,HA,5111,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,left,right
 0,HA,5111,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,right
 0,HA,5111,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,right,left
@@ -9260,7 +9260,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,6,right,left
 0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7,right,right
 0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8,left,left
-0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9,right,right
+0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9,left,right
 0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,10,right,left
 0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11,right,right
 0,HA,5111,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,12,left,left
@@ -9314,7 +9314,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2022,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,right,right
 0,MS,2022,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,3,left,left
 0,MS,2022,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,4,right,right
-0,MS,2022,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,5,left,left
+0,MS,2022,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,5,right,left
 0,MS,2022,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,0,right,right
 0,MS,2022,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,1,left,left
 0,MS,2022,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,2,right,right
@@ -9440,7 +9440,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2022,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,11,left,left
 0,MS,2022,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,12,right,right
 0,MS,2022,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,13,left,left
-0,MS,2022,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,14,right,right
+0,MS,2022,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,14,left,right
 0,MS,2022,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,15,left,left
 0,MS,2022,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,right,right
 0,MS,2022,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1,left,left
@@ -9819,7 +9819,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2025,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,5,left,right
 0,MS,2025,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,0,right,left
 0,MS,2025,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,1,right,right
-0,MS,2025,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,2,right,left
+0,MS,2025,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,2,left,left
 0,MS,2025,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,3,right,right
 0,MS,2025,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,4,left,left
 0,MS,2025,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,5,right,right
@@ -9864,7 +9864,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,13,right,right
 0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,14,left,left
 0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,15,right,right
-0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,16,left,left
+0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,16,right,left
 0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,right,right
 0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,18,left,left
 0,MS,2025,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,19,right,right
@@ -9911,7 +9911,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2026,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,7,right,right
 0,MS,2026,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,8,left,left
 0,MS,2026,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,9,right,right
-0,MS,2026,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,10,left,left
+0,MS,2026,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,10,right,left
 0,MS,2026,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,0,left,left
 0,MS,2026,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,1,right,right
 0,MS,2026,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,2,left,left
@@ -9920,7 +9920,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2026,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,5,right,right
 0,MS,2026,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,6,right,left
 0,MS,2026,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,0,left,left
-0,MS,2026,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,right,right
+0,MS,2026,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,left,right
 0,MS,2026,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,left,left
 0,MS,2026,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,right,right
 0,MS,2026,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,left,left
@@ -10541,7 +10541,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,6,right,right
 0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,7,left,left
 0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,8,right,right
-0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,9,left,left
+0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,9,right,left
 0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,0,left,right
 0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,1,left,left
 0,MS,2028,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,2,right,right
@@ -10625,8 +10625,8 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2029,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,6,left,left
 0,MS,2029,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,7,right,right
 0,MS,2029,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,8,left,left
-0,MS,2029,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,9,right,right
-0,MS,2029,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,0,left,left
+0,MS,2029,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,9,left,right
+0,MS,2029,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,0,right,left
 0,MS,2029,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,right,right
 0,MS,2029,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,left,left
 0,MS,2029,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,right,right
@@ -10841,7 +10841,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,43,right,right
 0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,44,left,left
 0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,45,right,right
-0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,46,right,left
+0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,46,left,left
 0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,47,right,right
 0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,48,left,left
 0,MS,2029,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,49,right,right
@@ -10859,7 +10859,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,10,left,left
 0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,11,right,right
 0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,12,left,left
-0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,13,right,right
+0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,13,left,right
 0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,14,left,left
 0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,16,left,left
 0,MS,2029,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,17,right,right
@@ -11198,7 +11198,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,7,right,right
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8,right,left
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9,right,right
-0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10,right,left
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,10,left,left
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11,right,right
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,12,left,left
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13,right,right
@@ -11227,7 +11227,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,2,left,left
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,3,right,right
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,4,left,left
-0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,5,right,right
+0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,5,left,right
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,6,left,left
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,7,right,right
 0,MS,2030,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,8,left,left
@@ -11269,7 +11269,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2031,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,left,right
 0,MS,2031,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,6,right,left
 0,MS,2031,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,left,left
-0,MS,2031,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,left,right
+0,MS,2031,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,right,right
 0,MS,2031,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,left,left
 0,MS,2031,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,3,right,right
 0,MS,2031,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,4,left,left
@@ -11398,7 +11398,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,right,left
 0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1,left,right
 0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,2,left,left
-0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,left,right
+0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,right,right
 0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,4,right,left
 0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,5,left,right
 0,MS,2031,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,6,left,left
@@ -11453,7 +11453,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,3,left,left
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,4,left,right
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,5,left,left
-0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,6,right,right
+0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,6,left,right
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,7,left,left
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,8,left,right
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,9,left,left
@@ -11461,7 +11461,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,11,left,left
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,12,left,right
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,13,left,left
-0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,14,right,right
+0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,14,left,right
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,15,left,left
 0,MS,2032,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,16,left,right
 0,MS,2032,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,0,right,right
@@ -11472,11 +11472,11 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2032,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,5,left,left
 0,MS,2032,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,6,left,right
 0,MS,2032,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,7,left,left
-0,MS,2032,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,8,right,right
+0,MS,2032,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,8,left,right
 0,MS,2032,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,9,left,left
 0,MS,2032,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,0,right,right
 0,MS,2032,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,left,left
-0,MS,2032,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,right,right
+0,MS,2032,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,left,right
 0,MS,2032,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,left,left
 0,MS,2032,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,left,right
 0,MS,2032,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,left,left
@@ -11496,7 +11496,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2032,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,8,left,right
 0,MS,2032,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,9,left,left
 0,MS,2032,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,10,left,right
-0,MS,2032,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,11,left,left
+0,MS,2032,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,11,right,left
 0,MS,2032,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,0,right,right
 0,MS,2032,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1,left,left
 0,MS,2032,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,2,left,right
@@ -11560,7 +11560,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,28,right,right
 0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,29,left,left
 0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,30,left,right
-0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,31,left,left
+0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,31,right,left
 0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,32,left,right
 0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,33,left,left
 0,MS,2032,TimeMeasure1,Test8,Trial1,L,L-Test,0,34,left,right
@@ -11964,14 +11964,14 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,7,left,left
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8,left,left
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9,left,left
-0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,10,left,left
+0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,10,right,left
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,left,right
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,right,right
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,4,right,right
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6,right,right
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,0,left,left
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,1,right,right
-0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,2,left,left
+0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,2,right,left
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,3,left,right
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,4,right,left
 0,MS,3033,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,5,left,right
@@ -12045,7 +12045,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,3034,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,4,left,left
 0,MS,3034,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,right,right
 0,MS,3034,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,6,left,left
-0,MS,3034,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,right,right
+0,MS,3034,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,7,left,right
 0,MS,3034,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,right,left
 0,MS,3034,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,right,right
 0,MS,3034,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,left,left
@@ -12201,7 +12201,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,20,right,right
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,21,right,left
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,23,left,left
-0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,25,left,left
+0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,25,right,left
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,0,left,left
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,1,right,right
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,left,left
@@ -12213,7 +12213,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8,left,left
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,9,right,left
 0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,10,right,left
-0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11,right,left
+0,MS,3034,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,11,left,left
 0,MS,3035,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,right,right
 0,MS,3035,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1,left,left
 0,MS,3035,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,2,right,right
@@ -12241,7 +12241,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,3035,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,left,left
 0,MS,3035,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,right,right
 0,MS,3035,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,6,left,left
-0,MS,3035,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,7,right,right
+0,MS,3035,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,7,left,right
 0,MS,3035,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,left,left
 0,MS,3035,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,right,right
 0,MS,3035,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,right,left
@@ -12485,7 +12485,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,3036,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,6,right,right
 0,MS,3036,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,7,left,left
 0,MS,3036,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,8,left,right
-0,MS,3036,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,9,left,left
+0,MS,3036,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,9,right,left
 0,MS,3036,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,10,left,right
 0,MS,3036,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,11,left,left
 0,MS,3036,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,12,right,right
@@ -12847,7 +12847,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,8,right,right
 0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,9,left,left
 0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,10,left,right
-0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,11,left,left
+0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,11,right,left
 0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,12,left,right
 0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,13,right,left
 0,MS,4037,TimeMeasure1,Test8,Trial1,L,L-Test,0,14,right,right
@@ -12869,7 +12869,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,0,right,left
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,1,right,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,2,left,left
-0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,3,right,right
+0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,3,left,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,4,left,left
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,5,right,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,6,left,left
@@ -12883,7 +12883,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,14,left,left
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,15,right,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,16,left,left
-0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,right,right
+0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,left,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,18,left,left
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,19,right,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,20,left,left
@@ -12897,7 +12897,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,28,left,left
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,29,right,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,30,left,left
-0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,31,right,right
+0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,31,left,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,32,left,left
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,33,right,right
 0,MS,4037,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,34,left,left
@@ -12942,7 +12942,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4037,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,26,left,left
 0,MS,4037,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,27,left,right
 0,MS,4037,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,28,right,left
-0,MS,4037,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,29,right,right
+0,MS,4037,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,29,left,right
 0,MS,4037,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,30,left,left
 0,MS,4037,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,31,right,right
 0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,right,right
@@ -12975,7 +12975,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,17,right,right
 0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,18,right,left
 0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,19,left,right
-0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,20,left,left
+0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,20,right,left
 0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,21,right,left
 0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,22,left,left
 0,MS,4037,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,23,left,right
@@ -13138,7 +13138,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,28,right,right
 0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,29,left,left
 0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,30,right,right
-0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,31,left,left
+0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,31,right,left
 0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,right,right
 0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,left,right
 0,MS,4038,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,3,left,left
@@ -13402,7 +13402,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4040,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,4,left,left
 0,MS,4040,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,5,right,right
 0,MS,4040,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,6,left,left
-0,MS,4040,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,7,right,right
+0,MS,4040,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,7,left,right
 0,MS,4040,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,0,left,left
 0,MS,4040,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,right,right
 0,MS,4040,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,left,left
@@ -13439,7 +13439,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4040,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,left,left
 0,MS,4040,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,3,right,right
 0,MS,4040,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,4,left,left
-0,MS,4040,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,5,right,right
+0,MS,4040,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,5,left,right
 0,MS,4040,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,0,left,left
 0,MS,4040,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,1,right,right
 0,MS,4040,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,2,left,left
@@ -13553,7 +13553,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,3,left,left
 0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,4,right,right
 0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6,right,right
-0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8,right,right
+0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8,left,right
 0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,0,right,left
 0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,1,right,right
 0,MS,4040,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,2,left,left
@@ -13703,7 +13703,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4041,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,36,left,left
 0,MS,4041,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,37,right,right
 0,MS,4041,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,38,right,left
-0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,right,left
+0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,left,left
 0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1,right,right
 0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,2,left,left
 0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,right,right
@@ -13737,7 +13737,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,32,right,left
 0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,33,right,right
 0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,34,right,left
-0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,35,left,right
+0,MS,4041,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,35,right,right
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,left,left
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1,right,right
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2,right,left
@@ -13777,7 +13777,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,8,left,left
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,9,right,right
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,11,right,right
-0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13,right,right
+0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,13,left,right
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,15,left,right
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,0,left,left
 0,MS,4041,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,1,right,right
@@ -13807,7 +13807,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1000,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,5,left,right
 0,PD,1000,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,6,left,left
 0,PD,1000,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,7,right,right
-0,PD,1000,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,right,left
+0,PD,1000,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,left,left
 0,PD,1000,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,right,right
 0,PD,1000,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,left,left
 0,PD,1000,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,3,right,right
@@ -13917,7 +13917,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,left,left
 0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,3,left,right
 0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,4,left,left
-0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5,right,right
+0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,5,left,right
 0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,0,right,right
 0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,1,left,left
 0,PD,1000,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,2,right,right
@@ -13934,7 +13934,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1001,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,4,left,left
 0,PD,1001,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,5,left,right
 0,PD,1001,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,6,left,left
-0,PD,1001,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,7,right,right
+0,PD,1001,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,7,left,right
 0,PD,1001,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,left,left
 0,PD,1001,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,right,right
 0,PD,1001,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,left,left
@@ -13946,7 +13946,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1001,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,2,left,left
 0,PD,1001,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,3,right,right
 0,PD,1001,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,4,left,left
-0,PD,1001,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,right,right
+0,PD,1001,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,5,left,right
 0,PD,1001,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,left
 0,PD,1001,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,right,right
 0,PD,1001,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,left,left
@@ -14104,7 +14104,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1002,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,3,right,right
 0,PD,1002,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,4,right,left
 0,PD,1002,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,5,right,right
-0,PD,1002,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,6,left,left
+0,PD,1002,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,6,right,left
 0,PD,1002,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,left
 0,PD,1002,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,left,right
 0,PD,1002,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,right,left
@@ -14146,7 +14146,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,0,left,left
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,1,left,right
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,2,right,left
-0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,3,right,right
+0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,3,left,right
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,4,right,left
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,5,left,right
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,6,right,left
@@ -14156,7 +14156,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,10,right,left
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,11,left,right
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,12,right,left
-0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,13,right,right
+0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,13,left,right
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,14,right,left
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,15,left,right
 0,PD,1002,TimeMeasure1,Test8,Trial2,L,L-Test,0,16,right,left
@@ -14547,7 +14547,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,3,left,left
 0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,4,left,left
 0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,left,left
-0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,6,left,left
+0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,6,right,left
 0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,0,left,left
 0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,1,right,right
 0,PD,1003,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,3,right,right
@@ -14649,7 +14649,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,20,left,left
 0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,21,right,right
 0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,22,left,left
-0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,23,left,right
+0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,23,right,right
 0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,24,left,left
 0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,25,left,right
 0,PD,1004,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,26,left,left
@@ -14684,7 +14684,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1004,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,19,left,right
 0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,left,left
 0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2,left,left
-0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,3,right,right
+0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,3,left,right
 0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,4,right,right
 0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,5,left,left
 0,PD,1004,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,6,left,left
@@ -14719,7 +14719,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,1005,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,6,right,right
 0,PD,1005,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,7,left,left
 0,PD,1005,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,8,right,right
-0,PD,1005,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,9,left,left
+0,PD,1005,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,9,right,left
 0,PD,1005,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,left,left
 0,PD,1005,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,right,right
 0,PD,1005,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,left,left
@@ -15192,7 +15192,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,3007,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,2,right,right
 0,PD,3007,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,3,left,left
 0,PD,3007,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,4,right,right
-0,PD,3007,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,5,left,left
+0,PD,3007,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,5,right,left
 0,PD,3007,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,6,right,right
 0,PD,3007,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,right,left
 0,PD,3007,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,left,right
@@ -15418,7 +15418,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,3008,TimeMeasure1,Test8,Trial1,L,L-Test,0,17,left,right
 0,PD,3008,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,left
 0,PD,3008,TimeMeasure1,Test8,Trial2,L,L-Test,0,0,right,left
-0,PD,3008,TimeMeasure1,Test8,Trial2,L,L-Test,0,1,left,right
+0,PD,3008,TimeMeasure1,Test8,Trial2,L,L-Test,0,1,right,right
 0,PD,3008,TimeMeasure1,Test8,Trial2,L,L-Test,0,2,left,left
 0,PD,3008,TimeMeasure1,Test8,Trial2,L,L-Test,0,3,right,right
 0,PD,3008,TimeMeasure1,Test8,Trial2,L,L-Test,0,4,right,left
@@ -16078,7 +16078,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,3,right,right
 0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,4,left,left
 0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,5,left,right
-0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,6,right,left
+0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,6,left,left
 0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,7,right,right
 0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,8,left,left
 0,PD,4011,TimeMeasure1,Test8,Trial1,L,L-Test,0,9,right,right
@@ -16108,7 +16108,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,14,left,left
 0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,15,right,right
 0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,16,left,left
-0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,left,right
+0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,right,right
 0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,18,left,left
 0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,19,right,right
 0,PD,4011,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,20,left,left
@@ -16137,7 +16137,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4011,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,13,left,left
 0,PD,4011,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,14,right,right
 0,PD,4011,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,15,left,left
-0,PD,4011,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,16,right,right
+0,PD,4011,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,16,left,right
 0,PD,4011,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,right,right
 0,PD,4011,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1,left,left
 0,PD,4011,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2,right,right
@@ -16382,11 +16382,11 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,19,right,right
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,20,left,left
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,21,right,right
-0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,22,left,left
+0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,22,right,left
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,23,right,right
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,24,left,left
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,25,right,right
-0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,26,left,left
+0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,26,right,left
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,27,left,right
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,28,right,left
 0,PD,4012,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,29,right,right
@@ -16505,7 +16505,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4013,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,13,right,right
 0,PD,4013,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,14,left,left
 0,PD,4013,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,15,left,right
-0,PD,4013,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,16,left,left
+0,PD,4013,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,16,right,left
 0,PD,4013,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,0,right,left
 0,PD,4013,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,1,left,right
 0,PD,4013,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,2,left,left
@@ -16553,7 +16553,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,left,left
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,3,right,right
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,4,left,left
-0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,5,right,right
+0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,5,left,right
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,6,left,left
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,7,right,right
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,8,left,left
@@ -16569,7 +16569,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,left
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,right,right
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,20,left,left
-0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,right,right
+0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,left,right
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,22,left,left
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,23,left,right
 0,PD,4013,TimeMeasure1,Test8,Trial1,L,L-Test,0,24,left,left
@@ -16766,12 +16766,12 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,16,left,left
 0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,17,left,right
 0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,18,right,left
-0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,19,right,right
+0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,19,left,right
 0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,20,left,left
 0,PD,4013,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,21,right,right
 0,PD,4014,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,left,left
 0,PD,4014,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1,left,right
-0,PD,4014,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,2,left,left
+0,PD,4014,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,2,right,left
 0,PD,4014,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,3,left,right
 0,PD,4014,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,4,left,left
 0,PD,4014,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,5,right,right
@@ -16837,7 +16837,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4014,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,4,right,left
 0,PD,4014,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,5,right,right
 0,PD,4014,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,6,right,left
-0,PD,4014,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,left
+0,PD,4014,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,right,left
 0,PD,4014,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,left,right
 0,PD,4014,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,right,left
 0,PD,4014,TimeMeasure1,Test8,Trial1,L,L-Test,0,3,left,right
@@ -16902,7 +16902,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4015,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,left,left
 0,PD,4015,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,right,right
 0,PD,4015,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,left,left
-0,PD,4015,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,right,right
+0,PD,4015,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,left,right
 0,PD,4015,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,0,right,right
 0,PD,4015,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,1,left,left
 0,PD,4015,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,2,right,right
@@ -16943,7 +16943,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4015,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,right,right
 0,PD,4015,TimeMeasure1,Test8,Trial1,L,L-Test,0,22,right,right
 0,PD,4015,TimeMeasure1,Test8,Trial1,L,L-Test,0,23,right,right
-0,PD,4015,TimeMeasure1,Test8,Trial1,L,L-Test,0,24,left,right
+0,PD,4015,TimeMeasure1,Test8,Trial1,L,L-Test,0,24,right,right
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,0,left,right
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,1,left,left
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,2,right,right
@@ -16960,7 +16960,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,13,left,left
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,14,right,right
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,15,left,left
-0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,16,left,right
+0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,16,right,right
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,17,left,left
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,18,right,right
 0,PD,4015,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,19,left,left
@@ -17020,7 +17020,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,9,left,left
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,10,right,right
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,11,left,left
-0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,12,left,right
+0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,12,right,right
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,0,left,left
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,1,right,right
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,2,left,left
@@ -17070,7 +17070,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,10,right,right
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,11,left,left
 0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12,right,right
-0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13,left,left
+0,PD,4015,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13,right,left
 0,PD,4018,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,left,left
 0,PD,4018,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1,left,right
 0,PD,4018,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,2,left,left
@@ -17371,7 +17371,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4019,TimeMeasure1,Test8,Trial1,L,L-Test,0,16,right,left
 0,PD,4019,TimeMeasure1,Test8,Trial1,L,L-Test,0,17,left,right
 0,PD,4019,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,left
-0,PD,4019,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,right,right
+0,PD,4019,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,left,right
 0,PD,4019,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,0,left,left
 0,PD,4019,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,1,right,right
 0,PD,4019,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,2,left,left
@@ -17410,7 +17410,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1,left,right
 0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,2,right,left
 0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,left,right
-0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,4,left,left
+0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,4,right,left
 0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,5,right,right
 0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,6,left,right
 0,PD,4019,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,7,left,left
@@ -17491,7 +17491,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12,left,left
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13,right,right
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,14,left,left
-0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15,left,right
+0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15,right,right
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,0,right,left
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,1,left,right
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,2,left,left
@@ -17514,7 +17514,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,5,left,left
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,6,right,right
 0,PD,4019,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,6,7,right,left
-0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,left,left
+0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,0,right,left
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,1,left,right
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,2,right,left
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,3,left,right
@@ -17532,7 +17532,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,15,left,right
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,16,right,left
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,17,left,right
-0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,18,left,left
+0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,18,right,left
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,19,left,right
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,21,right,right
 0,PD,4020,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,23,right,right
@@ -17552,7 +17552,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,left,left
 0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,left,right
 0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,left,left
-0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,right,right
+0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,left,right
 0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,left,left
 0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,6,right,right
 0,PD,4020,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,7,right,left
@@ -17570,11 +17570,11 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4020,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,8,left,left
 0,PD,4020,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,9,left,right
 0,PD,4020,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,10,left,left
-0,PD,4020,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,11,right,right
+0,PD,4020,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,11,left,right
 0,PD,4020,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,12,right,left
 0,PD,4020,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,13,right,right
 0,PD,4020,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,0,right,right
-0,PD,4020,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1,left,left
+0,PD,4020,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1,right,left
 0,PD,4020,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,2,right,right
 0,PD,4020,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,3,left,left
 0,PD,4020,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,4,left,right
@@ -17750,7 +17750,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4021,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,8,left,left
 0,PD,4021,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,9,right,right
 0,PD,4021,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,10,left,left
-0,PD,4021,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,11,right,right
+0,PD,4021,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,11,left,right
 0,PD,4021,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,0,left,right
 0,PD,4021,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,1,left,left
 0,PD,4021,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,2,right,right
@@ -17853,7 +17853,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4021,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,37,left,left
 0,PD,4021,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,38,right,right
 0,PD,4021,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,39,right,left
-0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,right,right
+0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,left,right
 0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1,right,left
 0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,2,right,right
 0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,3,left,left
@@ -17875,7 +17875,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,19,left,left
 0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,20,right,right
 0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,22,right,right
-0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,24,right,right
+0,PD,4021,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,24,left,right
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,0,left,right
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,1,left,left
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,2,right,right
@@ -17907,7 +17907,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,5,right,right
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,6,left,left
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,3,7,left,right
-0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,0,left,right
+0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,0,right,right
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,1,left,left
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,2,right,right
 0,PD,4021,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,3,left,left
@@ -17992,7 +17992,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,4,left,left
 0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,5,right,right
 0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,6,left,left
-0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,7,right,right
+0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,7,left,right
 0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,8,left,left
 0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,9,right,right
 0,PFF,4060,TimeMeasure1,Test9,Trial1,Surface,Surface Test,1,10,right,left
@@ -18048,7 +18048,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4061,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,3,left,left
 0,PFF,4061,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,4,right,right
 0,PFF,4061,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,5,left,left
-0,PFF,4061,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,6,left,right
+0,PFF,4061,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,6,right,right
 0,PFF,4061,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,7,left,left
 0,PFF,4061,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,8,right,right
 0,PFF,4061,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,1,9,right,left
@@ -18208,7 +18208,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,0,17,left,right
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,left
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,left,right
-0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,0,20,left,left
+0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,0,20,right,left
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,0,21,left,right
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,0,22,right,left
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,0,23,left,right
@@ -18242,7 +18242,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,1,1,right,left
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,1,2,left,right
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,1,3,right,left
-0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,1,4,right,right
+0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,1,4,left,right
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,1,5,left,left
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,1,6,right,right
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,1,7,right,left
@@ -18259,7 +18259,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,2,8,right,right
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,2,9,left,left
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,2,10,right,right
-0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,2,11,left,left
+0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,2,11,right,left
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,2,12,right,right
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,2,13,left,left
 0,PFF,4061,TimeMeasure1,Test8,Trial1,L,L-Test,2,14,right,right
@@ -18342,7 +18342,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4061,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,71,right,right
 0,PFF,4061,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,72,left,left
 0,PFF,4061,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,73,right,right
-0,PFF,4061,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,74,left,left
+0,PFF,4061,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,74,right,left
 0,PFF,4061,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,75,right,right
 0,PFF,4061,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,76,left,left
 0,PFF,4061,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,77,right,right
@@ -18466,7 +18466,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4061,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,15,right,left
 0,PFF,4061,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,16,right,right
 0,PFF,4061,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,17,right,left
-0,PFF,4061,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,18,right,right
+0,PFF,4061,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,18,left,right
 0,PFF,4061,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,19,left,left
 0,PFF,4061,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,20,right,right
 0,PFF,4061,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,1,21,right,left
@@ -18727,7 +18727,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4064,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,7,right,right
 0,PFF,4064,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,8,left,left
 0,PFF,4064,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,9,left,right
-0,PFF,4064,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,10,right,left
+0,PFF,4064,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,10,left,left
 0,PFF,4064,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,11,right,right
 0,PFF,4064,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,12,left,left
 0,PFF,4064,TimeMeasure1,Test6,Trial1,WalkSlow,Straight Walk Slow,0,13,left,right
@@ -18774,10 +18774,10 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4064,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,12,right,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,right,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,right,right
-0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,left,left
+0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,right,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,3,left,right
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,4,left,left
-0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,5,left,right
+0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,5,right,right
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,6,left,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,7,right,right
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,8,left,left
@@ -18789,7 +18789,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,14,right,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,15,left,right
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,16,left,left
-0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,17,left,right
+0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,17,right,right
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,18,left,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,19,left,right
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,20,left,left
@@ -18798,7 +18798,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,23,right,right
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,24,right,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,25,right,right
-0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,26,left,left
+0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,26,right,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,27,right,right
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,28,left,left
 0,PFF,4064,TimeMeasure1,Test8,Trial1,L,L-Test,0,29,right,right
@@ -18872,7 +18872,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,50,right,left
 0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,51,left,right
 0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,52,right,left
-0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,53,left,right
+0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,53,right,right
 0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,54,left,left
 0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,55,right,right
 0,PFF,4064,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,56,left,left
@@ -19068,13 +19068,13 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,7,left,right
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,8,left,left
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,9,left,right
-0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,10,left,left
+0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,10,right,left
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,11,left,right
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,12,right,left
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,13,left,right
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,15,right,right
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,4,17,left,right
-0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,0,left,right
+0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,0,right,right
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,2,right,right
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,3,right,left
 0,PFF,4064,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,5,4,right,right
@@ -19386,7 +19386,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,3,left,left
 0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,4,right,right
 0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,5,left,left
-0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,6,left,right
+0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,6,right,right
 0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,7,left,left
 0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,8,right,right
 0,PFF,5066,TimeMeasure1,Test8,Trial1,L,L-Test,0,9,left,left
@@ -19543,7 +19543,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,0,right,right
 0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,left,left
 0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,right,right
-0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,left,left
+0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,3,right,left
 0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,4,right,right
 0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,5,left,left
 0,PFF,5067,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,6,right,right
@@ -19908,7 +19908,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5068,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,11,left,left
 0,PFF,5068,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,12,right,right
 0,PFF,5068,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,13,left,left
-0,PFF,5068,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,14,right,right
+0,PFF,5068,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,14,left,right
 0,PFF,5068,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,left,left
 0,PFF,5068,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,right,right
 0,PFF,5068,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,left,left
@@ -20174,7 +20174,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5069,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,24,left,left
 0,PFF,5069,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,25,right,right
 0,PFF,5069,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,27,right,right
-0,PFF,5069,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,29,left,right
+0,PFF,5069,TimeMeasure1,Test4,Trial1,TimedUpGo,TUG,0,29,right,right
 0,PFF,5069,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,0,left,left
 0,PFF,5069,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,1,right,right
 0,PFF,5069,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,2,left,left
@@ -20730,7 +20730,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5071,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,3,right,right
 0,PFF,5071,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,4,left,left
 0,PFF,5071,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,5,right,right
-0,PFF,5071,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,6,left,left
+0,PFF,5071,TimeMeasure1,Test5,Trial1,WalkComfortable,Straight Walk Comfortable,0,6,right,left
 0,PFF,5071,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,0,left,left
 0,PFF,5071,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,1,right,right
 0,PFF,5071,TimeMeasure1,Test5,Trial2,WalkComfortable,Straight Walk Comfortable,0,2,left,left
@@ -20780,7 +20780,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,8,left,left
 0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,9,right,right
 0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,10,right,left
-0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,11,left,right
+0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,11,right,right
 0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,12,left,left
 0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,13,right,right
 0,PFF,5071,TimeMeasure1,Test8,Trial1,L,L-Test,0,14,left,left
@@ -20936,7 +20936,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5072,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,11,right,left
 0,PFF,5072,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,12,right,right
 0,PFF,5072,TimeMeasure1,Test6,Trial2,WalkSlow,Straight Walk Slow,0,13,left,left
-0,PFF,5072,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,right,right
+0,PFF,5072,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,0,left,right
 0,PFF,5072,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,1,left,left
 0,PFF,5072,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,2,right,right
 0,PFF,5072,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,3,left,left
@@ -21204,7 +21204,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5074,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,9,right,right
 0,PFF,5074,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,10,left,left
 0,PFF,5074,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,11,right,right
-0,PFF,5074,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,12,left,left
+0,PFF,5074,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,12,right,left
 0,PFF,5074,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,0,left,left
 0,PFF,5074,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,1,right,right
 0,PFF,5074,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,2,right,left
@@ -21473,7 +21473,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5075,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,37,left,left
 0,PFF,5075,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,38,right,right
 0,PFF,5075,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,39,left,left
-0,PFF,5075,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,40,right,right
+0,PFF,5075,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,40,left,right
 0,PFF,5075,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,0,right,right
 0,PFF,5075,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,1,left,left
 0,PFF,5075,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,2,right,right
@@ -21510,7 +21510,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,7,left,left
 0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,8,left,right
 0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,9,left,left
-0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,10,right,right
+0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,10,left,right
 0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,11,left,left
 0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,12,right,right
 0,PFF,5075,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,13,left,left
@@ -21654,7 +21654,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5076,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,11,left,left
 0,PFF,5076,TimeMeasure1,Test7,Trial1,WalkFast,Straight Walk Fast,0,12,left,right
 0,PFF,5076,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,0,left,left
-0,PFF,5076,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,1,right,right
+0,PFF,5076,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,1,left,right
 0,PFF,5076,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,2,left,left
 0,PFF,5076,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,3,right,right
 0,PFF,5076,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,4,left,left
@@ -21976,7 +21976,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5077,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,9,right,left
 0,PFF,5077,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,10,right,right
 0,PFF,5077,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,11,right,left
-0,PFF,5077,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,12,right,right
+0,PFF,5077,TimeMeasure1,Test7,Trial2,WalkFast,Straight Walk Fast,0,12,left,right
 0,PFF,5077,TimeMeasure1,Test8,Trial1,L,L-Test,0,0,right,right
 0,PFF,5077,TimeMeasure1,Test8,Trial1,L,L-Test,0,1,right,left
 0,PFF,5077,TimeMeasure1,Test8,Trial1,L,L-Test,0,2,right,right
@@ -22303,7 +22303,7 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,4,left,left
 0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,5,right,right
 0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,6,left,left
-0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,7,right,right
+0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,7,left,right
 0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,8,left,left
 0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,9,right,right
 0,PFF,5078,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,10,right,left
