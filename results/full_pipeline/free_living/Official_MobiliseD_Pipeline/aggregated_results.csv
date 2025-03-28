@@ -11,11 +11,11 @@ combined__cadence_spm__error,
 combined__cadence_spm__abs_error,
 combined__cadence_spm__rel_error,
 combined__cadence_spm__abs_rel_error,
-combined__start__detected,387276.57425742573
-combined__end__detected,389605.28712871287
-combined__walking_speed_mps__detected,0.5967025948068837
-combined__stride_length_m__detected,0.8291652835065628
-combined__cadence_spm__detected,86.50989862374917
+combined__start__detected,384115.0346534653
+combined__end__detected,386400.85643564357
+combined__walking_speed_mps__detected,0.5966362471492563
+combined__stride_length_m__detected,0.8293974156760906
+combined__cadence_spm__detected,86.49200762922604
 combined__start__reference,
 combined__end__reference,
 combined__walking_speed_mps__reference,
@@ -45,4 +45,4 @@ matched__stride_length_m__detected,
 matched__stride_length_m__reference,
 matched__walking_speed_mps__detected,
 matched__walking_speed_mps__reference,
-matched__n_matched_wbs,19.712871287128714
+matched__n_matched_wbs,19.643564356435643
