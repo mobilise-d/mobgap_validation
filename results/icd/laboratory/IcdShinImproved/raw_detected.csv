@@ -14058,44 +14058,6 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,wb
 0,PD,3006,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0.0,39,2811
 0,PD,3006,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0.0,40,2881
 0,PD,3006,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0.0,41,2936
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,0,222
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,1,277
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,2,361
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,3,425
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,4,470
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,5,526
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,6,590
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,7,649
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,8,703
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,9,764
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,10,823
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,11,879
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,12,937
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,13,991
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,14,1051
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,15,1110
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,16,1172
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,17,1236
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,18,1295
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,19,1349
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,20,1407
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,21,1467
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,22,1514
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,23,1598
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,24,1666
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,25,1707
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,26,1766
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,27,1824
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,28,1890
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,29,1949
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,30,2010
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,31,2071
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,32,2133
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,33,2192
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,34,2256
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,35,2317
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,36,2382
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0.0,37,2449
 0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0.0,0,2526
 0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0.0,1,2603
 0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0.0,2,2639
