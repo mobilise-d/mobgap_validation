@@ -1221,7 +1221,6 @@ fold,cohort,participant_id,time_measure,test,trial,test_name,test_name_pretty,gs
 0,PD,3006,TimeMeasure1,Test8,Trial2,L,L-Test,0,230,1918
 0,PD,3006,TimeMeasure1,Test9,Trial1,Surface,Surface Test,0,310,2928
 0,PD,3006,TimeMeasure1,Test9,Trial2,Surface,Surface Test,0,258,3015
-0,PD,3006,TimeMeasure1,Test10,Trial1,Halway,Hallway Test,0,127,2652
 0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,0,145,592
 0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,1,6672,7188
 0,PD,3006,TimeMeasure1,Test11,Trial1,DailyActivities,Simulated Daily Activities,2,8032,8615
