@@ -3,7 +3,7 @@ fold,label,identity,pa_normal__rot_pa_pos90,pa_normal__rot_pa_180,pa_normal__rot
 0,pa_normal__rot_pa_pos90,0,4685,0,0,0,355,0,0,31
 0,pa_normal__rot_pa_180,0,0,4685,0,0,0,355,0,31
 0,pa_normal__rot_pa_neg90,0,0,0,4685,0,0,0,355,31
-0,pa_flipped__rot_pa_0,0,0,0,0,0,0,0,0,0
+0,pa_flipped__rot_pa_0,5065,0,0,0,0,0,0,0,6
 0,pa_flipped__rot_pa_pos90,0,331,0,0,0,4709,0,0,31
 0,pa_flipped__rot_pa_180,0,0,331,0,0,0,4709,0,31
 0,pa_flipped__rot_pa_neg90,0,0,0,331,0,0,0,4709,31
