@@ -1,0 +1,9 @@
+fold,label,recall
+0,identity,0.9992932862190813
+0,pa_normal__rot_pa_pos90,0.9031802120141342
+0,pa_normal__rot_pa_180,0.9031802120141342
+0,pa_normal__rot_pa_neg90,0.9031802120141342
+0,pa_flipped__rot_pa_0,0.0
+0,pa_flipped__rot_pa_pos90,0.8975265017667845
+0,pa_flipped__rot_pa_180,0.8975265017667845
+0,pa_flipped__rot_pa_neg90,0.8975265017667845
