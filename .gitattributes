@@ -1,1 +1,2 @@
-*.csv text=false
+# Keep validation results byte-for-byte identical to their registry hashes.
+results/** -text
